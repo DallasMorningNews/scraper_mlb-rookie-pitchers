@@ -1,0 +1,647 @@
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,194,46,Zach Britton,306,/players/b/brittza01.shtml,516.6666666666666,460,22,LHP,11.0,32,211,3.22,30,Orioles,BAL,425,185
+2006,85,24,Jason Berken,106,/players/b/berkeja01.shtml,230.0,297,17,RHP,0.2,36,152,5.4,10,Orioles,BAL,152,138
+2007,159,63,Jake Arrieta,69,/players/a/arrieja01.shtml,358.0,368,25,RHP,0.09999999999999987,48,228,5.46,20,Orioles,BAL,277,217
+2008,202,68,Brian Matusz,279,/players/m/matusbr01.shtml,525.6666666666666,561,41,LHP,2.7000000000000006,76,303,4.85,27,Orioles,BAL,460,283
+2008,19,0,Oliver Drake,30,/players/d/drakeol01.shtml,37.0,33,0,RHP,-0.1,3,21,3.89,1,Orioles,BAL,41,16
+2009,97,0,Mychal Givens,226,/players/g/givenmy01.shtml,260.0,197,10,SS,5.699999999999999,21,96,3.12,18,Orioles,BAL,301,90
+2009,3,0,Ashur Tolliver,5,/players/t/tollias01.shtml,4.666666666666667,5,0,LHP,-0.1,1,4,5.79,1,Orioles,BAL,5,3
+2010,1,0,Parker Bridwell,2,/players/b/bridwpa01.shtml,3.3333333333333335,5,0,RHP,-0.2,2,5,13.5,0,Orioles,BAL,3,5
+2011,148,73,Dylan Bundy,97,/players/b/bundydy01.shtml,452.6666666666667,450,31,RHP,4.6,85,250,4.63,31,Orioles,BAL,440,233
+2011,87,23,Mike Wright Jr.,91,/players/w/wrighmi01.shtml,228.66666666666666,260,11,RHP,-1.0,38,154,5.75,10,Orioles,BAL,178,146
+2011,39,19,Tyler Wilson,42,/players/w/wilsoty01.shtml,145.33333333333334,171,10,RHP,0.7000000000000001,19,85,5.02,8,Orioles,BAL,77,81
+2012,230,127,Kevin Gausman,150,/players/g/gausmke01.shtml,763.6666666666666,801,51,RHP,10.3,110,371,4.22,39,Orioles,BAL,697,358
+2013,32,7,Jimmy Yacabonis,26,/players/y/yacabji01.shtml,60.666666666666664,58,2,RHP,0.4,10,35,5.04,2,Orioles,BAL,41,34
+2013,4,0,Stefan Crichton,8,/players/c/crichst01.shtml,12.333333333333334,26,0,RHP,-0.2,2,11,8.03,0,Orioles,BAL,8,11
+2013,31,0,Donnie Hart,93,/players/h/hartdo01.shtml,81.33333333333333,91,0,LHP,1.6,8,33,3.43,2,Orioles,BAL,54,31
+2014,37,19,David Hess,21,/players/h/hessda01.shtml,103.33333333333333,106,10,RHP,0.7,22,64,4.88,3,Orioles,BAL,74,56
+2014,30,0,Tanner Scott,55,/players/s/scottta01.shtml,55.0,57,3,LHP,-0.2,6,35,5.56,3,Orioles,BAL,78,34
+2014,0,0,John Means,1,/players/m/meansjo01.shtml,3.3333333333333335,6,0,LHP,-0.2,1,5,13.5,0,Orioles,BAL,4,5
+2015,10,1,Ryan Meisinger,18,/players/m/meisiry01.shtml,21.0,18,1,RHP,-0.1,6,15,6.43,2,Orioles,BAL,21,15
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,65,15,Justin Masterson,67,/players/m/masteju01.shtml,160.33333333333334,140,8,RHP,2.9000000000000004,17,69,3.76,9,Red Sox,BOS,135,67
+2006,15,0,Dustin Richardson,29,/players/r/richadu02.shtml,16.333333333333332,18,0,LHP,0.30000000000000004,2,6,3.31,0,Red Sox,BOS,12,6
+2007,9,0,Drake Britton,25,/players/b/brittdr01.shtml,27.666666666666668,26,1,LHP,0.5,1,9,2.93,1,Red Sox,BOS,21,9
+2008,12,5,Kyle Weiland,7,/players/w/weilaky01.shtml,24.666666666666668,29,3,RHP,-0.6,5,22,7.66,0,Red Sox,BOS,13,21
+2009,19,0,Alex Wilson,44,/players/w/wilsoal01.shtml,56.0,54,1,RHP,0.3,3,24,3.38,2,Red Sox,BOS,41,21
+2010,16,7,Anthony Ranaudo,7,/players/r/ranauan01.shtml,39.333333333333336,39,3,RHP,-0.1,10,21,4.81,4,Red Sox,BOS,15,21
+2011,44,16,Henry Owens,16,/players/o/owenshe02.shtml,85.0,85,6,LHP,0.19999999999999996,12,52,5.19,4,Red Sox,BOS,71,49
+2011,16,0,Noe Ramirez,33,/players/r/ramirno01.shtml,30.666666666666668,32,1,RHP,-0.7,9,23,4.99,0,Red Sox,BOS,32,17
+2012,50,19,Brian Johnson,44,/players/j/johnsbr02.shtml,130.66666666666666,139,6,LHP,1.6,21,66,4.34,6,Red Sox,BOS,111,63
+2012,1,0,Pat Light,2,/players/l/lightpa01.shtml,2.6666666666666665,7,0,RHP,-0.2,2,8,23.63,0,Red Sox,BOS,2,7
+2012,2,0,Austin Maddox,13,/players/m/maddoau01.shtml,17.333333333333332,13,0,RHP,0.7,1,1,0.52,0,Red Sox,BOS,14,1
+2013,2,0,Kyle Martin,2,/players/m/martiky01.shtml,2.3333333333333335,2,0,RHP,0.0,1,1,3.86,0,Red Sox,BOS,1,1
+2014,4,1,Jalen Beeks,2,/players/b/beeksja02.shtml,6.333333333333333,11,1,LHP,-0.4,1,9,12.79,0,Red Sox,BOS,5,9
+2015,9,0,Ben Taylor,14,/players/t/taylobe10.shtml,17.333333333333332,20,1,RHP,-0.1,3,10,5.19,0,Red Sox,BOS,18,10
+2015,3,0,Bobby Poyner,20,/players/p/poynebo01.shtml,22.333333333333332,22,0,LHP,0.6,4,8,3.22,1,Red Sox,BOS,24,8
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,182,43,Joba Chamberlain,260,/players/c/chambjo03.shtml,444.6666666666667,433,14,RHP,7.000000000000001,47,209,3.85,23,Yankees,NYY,446,190
+2006,3,0,George Kontos,7,/players/k/kontoge01.shtml,6.0,4,0,RHP,0.2,1,2,3.0,0,Yankees,NYY,6,2
+2006,170,1,Dellin Betances,357,/players/b/betande01.shtml,381.0,228,22,RHP,11.7,26,113,2.36,21,Yankees,NYY,619,100
+2006,10,0,Mark Melancon,15,/players/m/melanma01.shtml,20.333333333333332,20,1,RHP,0.1,1,13,4.87,0,Yankees,NYY,13,11
+2006,166,0,David Robertson,402,/players/r/roberda08.shtml,393.3333333333333,312,19,RHP,13.3,30,129,2.81,25,Yankees,NYY,524,123
+2007,3,0,Andrew Brackman,3,/players/b/brackan01.shtml,2.3333333333333335,1,0,RHP,0.1,0,0,0.0,0,Yankees,NYY,0,0
+2008,7,0,Brett Marshall,3,/players/m/marshbr01.shtml,12.0,13,0,RHP,0.0,3,6,4.5,0,Yankees,NYY,7,6
+2008,3,0,D.J. Mitchell,4,/players/m/mitchdj01.shtml,4.666666666666667,7,0,RHP,0.1,1,2,3.86,0,Yankees,NYY,2,2
+2008,119,40,David Phelps,87,/players/p/phelpda01.shtml,299.3333333333333,284,14,RHP,1.9,35,150,4.21,15,Yankees,NYY,267,140
+2009,95,20,Adam Warren,147,/players/w/warread01.shtml,289.3333333333333,265,15,RHP,7.500000000000001,26,113,3.39,13,Yankees,NYY,245,109
+2009,1,0,Caleb Cotham,12,/players/c/cothaca01.shtml,9.666666666666666,14,0,RHP,-0.1,4,7,6.52,1,Yankees,NYY,11,7
+2009,29,14,Shane Greene,15,/players/g/greensh02.shtml,78.66666666666667,81,4,RHP,0.6,8,38,3.78,5,Yankees,NYY,81,33
+2009,44,9,Bryan Mitchell,48,/players/m/mitchbr01.shtml,98.33333333333333,115,6,RHP,-0.19999999999999996,7,64,4.94,2,Yankees,NYY,64,54
+2010,1,0,Danny Burawa,1,/players/b/burawda01.shtml,0.6666666666666666,3,0,RHP,-0.2,1,4,54.0,0,Yankees,NYY,1,4
+2010,23,16,Chase Whitley,28,/players/w/whitlch01.shtml,95.0,114,5,RHP,-0.09999999999999998,13,53,5.02,5,Yankees,NYY,76,53
+2010,24,0,Preston Claiborne,62,/players/c/claibpr01.shtml,71.33333333333333,75,2,RHP,0.4,8,32,3.79,3,Yankees,NYY,58,30
+2010,4,0,Conor Mullee,3,/players/m/mulleco01.shtml,3.0,0,0,RHP,0.1,0,1,3.0,0,Yankees,NYY,4,1
+2011,15,0,Branden Pinder,26,/players/p/pindebr01.shtml,28.666666666666668,31,2,RHP,0.4,4,11,3.45,0,Yankees,NYY,26,11
+2011,15,0,Nick Goody,34,/players/g/goodyni01.shtml,34.666666666666664,36,0,RHP,0.2,7,18,4.67,0,Yankees,NYY,37,18
+2011,2,0,Matt Tracy,1,/players/t/tracyma01.shtml,2.0,2,0,LHP,-0.1,0,3,0.0,0,Yankees,NYY,1,0
+2012,15,0,Nick Goody,34,/players/g/goodyni01.shtml,34.666666666666664,36,0,RHP,0.2,7,18,4.67,0,Yankees,NYY,37,18
+2012,4,0,James Pazos,18,/players/p/pazosja01.shtml,8.333333333333334,10,0,LHP,0.09999999999999998,2,5,5.4,1,Yankees,NYY,6,5
+2013,5,0,Nick Rumbelow,17,/players/r/rumbeni01.shtml,15.666666666666666,16,1,RHP,0.1,2,8,4.02,1,Yankees,NYY,15,7
+2013,4,0,Tyler Webb,7,/players/w/webbty01.shtml,6.0,3,0,LHP,0.0,1,3,4.5,0,Yankees,NYY,5,3
+2013,10,2,Caleb Smith,9,/players/s/smithca03.shtml,18.666666666666668,21,1,LHP,-0.3,4,16,7.71,0,Yankees,NYY,18,16
+2014,4,0,Jacob Lindgren,7,/players/l/lindgja01.shtml,7.0,5,0,LHP,0.0,3,4,5.14,0,Yankees,NYY,8,4
+2014,63,35,Jordan Montgomery,35,/players/m/montgjo01.shtml,182.66666666666666,165,7,LHP,3.5,24,83,3.84,11,Yankees,NYY,167,78
+2014,31,1,Jonathan Holder,105,/players/h/holdejo02.shtml,113.66666666666667,106,4,RHP,1.5,10,49,3.56,2,Yankees,NYY,105,45
+2015,4,1,Chance Adams,3,/players/a/adamsch01.shtml,7.666666666666667,8,1,RHP,-0.2,3,7,7.04,0,Yankees,NYY,4,6
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,31,9,Brad Mills,14,/players/m/millsbr02.shtml,48.333333333333336,57,3,LHP,-1.6,10,46,8.57,2,Blue Jays,TOR,45,46
+2007,228,74,Brett Cecil,330,/players/c/cecilbr01.shtml,656.0,651,42,LHP,7.1000000000000005,84,324,4.2,41,Blue Jays,TOR,585,306
+2007,31,9,Brad Mills,14,/players/m/millsbr02.shtml,48.333333333333336,57,3,LHP,-1.6,10,46,8.57,2,Blue Jays,TOR,45,46
+2007,75,23,Marc Rzepczynski,68,/players/r/rzepcma01.shtml,164.33333333333334,151,11,LHP,2.0999999999999996,17,80,4.0,8,Blue Jays,TOR,150,73
+2008,4,0,Evan Crawford,10,/players/c/crawfev01.shtml,8.0,10,0,LHP,-0.1,3,6,6.75,0,Blue Jays,TOR,5,6
+2008,2,0,Danny Farquhar,3,/players/f/farquda01.shtml,2.0,4,0,RHP,-0.1,0,4,13.5,0,Blue Jays,TOR,1,3
+2008,1,0,Dustin Antolin,1,/players/a/antoldu01.shtml,2.0,4,0,RHP,-0.1,1,3,13.5,0,Blue Jays,TOR,1,3
+2009,26,6,Chad Jenkins,46,/players/j/jenkich01.shtml,100.66666666666667,100,4,RHP,1.5,11,41,3.31,3,Blue Jays,TOR,51,37
+2009,98,0,Aaron Loup,369,/players/l/loupaa01.shtml,318.6666666666667,307,20,LHP,4.199999999999999,25,138,3.47,12,Blue Jays,TOR,297,123
+2009,128,73,Drew Hutchison,76,/players/h/hutchdr01.shtml,406.3333333333333,424,21,RHP,0.2999999999999998,57,233,4.92,30,Blue Jays,TOR,374,222
+2009,69,0,Ryan Tepera,193,/players/t/teperry01.shtml,193.66666666666666,152,9,RHP,3.0,25,84,3.49,12,Blue Jays,TOR,189,75
+2010,194,69,Aaron Sanchez,123,/players/s/sanchaa01.shtml,458.3333333333333,397,19,RHP,9.2,42,195,3.44,29,Blue Jays,TOR,359,175
+2010,2,0,Sam Dyson,2,/players/d/dysonsa01.shtml,0.6666666666666666,4,0,RHP,-0.2,0,3,40.5,0,Blue Jays,TOR,1,3
+2010,1,1,Sean Nolin,2,/players/n/nolinse01.shtml,2.3333333333333335,8,1,LHP,-0.3,2,7,27.0,0,Blue Jays,TOR,0,7
+2010,51,0,Danny Barnes,119,/players/b/barneda02.shtml,120.66666666666667,109,9,RHP,1.2,17,60,4.33,6,Blue Jays,TOR,114,58
+2011,1,0,Taylor Cole,1,/players/c/coleta01.shtml,1.0,6,0,RHP,-0.3,0,4,36.0,0,Blue Jays,TOR,1,4
+2012,186,108,Marcus Stroman,114,/players/s/stromma01.shtml,665.0,670,34,RHP,10.6,60,315,3.91,41,Blue Jays,TOR,536,289
+2012,33,17,Ryan Borucki,17,/players/b/borucry01.shtml,97.66666666666667,96,6,LHP,1.7,7,48,3.87,4,Blue Jays,TOR,67,42
+2013,1,2,Matthew Boyd,2,/players/b/boydma01.shtml,6.666666666666667,15,2,LHP,-0.5,5,11,14.85,0,Blue Jays,TOR,7,11
+2013,0,0,Kendall Graveman,5,/players/g/graveke01.shtml,4.666666666666667,4,0,RHP,0.1,0,2,3.86,0,Blue Jays,TOR,4,2
+2013,2,0,Chad Girodo,14,/players/g/girodch01.shtml,10.333333333333334,11,0,LHP,0.1,3,5,4.35,0,Blue Jays,TOR,5,5
+2013,18,0,Tim Mayza,56,/players/m/mayzati01.shtml,52.666666666666664,57,0,LHP,0.4,6,28,4.44,3,Blue Jays,TOR,67,26
+2013,5,0,Matt Dermody,28,/players/d/dermoma01.shtml,25.333333333333332,29,0,LHP,0.0,7,17,5.33,2,Blue Jays,TOR,20,15
+2014,21,7,Sean Reid-Foley,7,/players/r/reidfse01.shtml,33.333333333333336,31,4,RHP,-0.1,6,23,5.13,2,Blue Jays,TOR,42,19
+2014,7,0,Justin Shafer,6,/players/s/shafeju01.shtml,8.333333333333334,6,0,RHP,0.1,1,4,3.24,0,Blue Jays,TOR,2,3
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,204,115,Alex Cobb,115,/players/c/cobbal01.shtml,700.0,648,35,RHP,10.799999999999999,65,290,3.5,48,Devil Rays,TBR,570,272
+2007,309,170,David Price,175,/players/p/priceda01.shtml,1143.6666666666667,997,47,LHP,21.200000000000003,107,449,3.18,82,Devil Rays,TBR,1065,404
+2007,228,94,Matt Moore,96,/players/m/moorema02.shtml,540.0,495,28,RHP,5.3999999999999995,63,251,3.88,39,Devil Rays,TBR,494,233
+2009,10,0,Andrew Bellatti,17,/players/b/bellaan01.shtml,23.333333333333332,16,1,RHP,0.6,4,7,2.31,3,Rays,TBR,18,6
+2009,5,0,Dylan Floro,12,/players/f/florody01.shtml,15.0,23,1,RHP,0.0,0,8,4.2,0,Rays,TBR,14,7
+2010,10,0,C.J. Riefenhauser,24,/players/r/riefecj01.shtml,20.0,21,0,LHP,-0.5,3,15,6.3,1,Rays,TBR,9,14
+2011,174,74,Blake Snell,74,/players/s/snellbl01.shtml,399.0,318,20,LHP,9.3,36,150,2.95,32,Rays,TBR,438,131
+2011,64,26,Jake Faria,33,/players/f/fariaja01.shtml,151.66666666666666,131,8,RHP,1.2,20,74,4.27,9,Rays,TBR,134,72
+2012,5,0,Dylan Floro,12,/players/f/florody01.shtml,15.0,23,1,RHP,0.0,0,8,4.2,0,Rays,TBR,14,7
+2012,16,0,Ryan Garton,44,/players/g/gartory01.shtml,49.666666666666664,57,3,RHP,-0.30000000000000004,8,30,5.26,1,Rays,TBR,42,29
+2013,38,8,Austin Pruitt,53,/players/p/pruitau01.shtml,152.66666666666666,175,8,RHP,-1.1,18,95,5.01,9,Rays,TBR,108,85
+2013,17,1,Jaime Schultz,22,/players/s/schulja02.shtml,30.333333333333332,18,2,RHP,-0.2,6,19,5.64,2,Rays,TBR,35,19
+2013,18,8,Hunter Wood,30,/players/w/woodhu01.shtml,41.333333333333336,42,1,RHP,0.4,4,17,3.7,1,Rays,TBR,42,17
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,18,0,Brian Omogrosso,29,/players/o/omogrbr01.shtml,37.333333333333336,48,2,RHP,-0.2,5,24,5.54,0,White Sox,CHW,34,23
+2006,113,27,Hector Santiago,78,/players/s/santihe01.shtml,224.66666666666666,192,10,LHP,5.0,27,95,3.41,8,White Sox,CHW,218,85
+2006,75,0,Jake Petricka,181,/players/p/petrija01.shtml,178.0,190,11,RHP,2.4,12,78,3.84,7,White Sox,CHW,131,76
+2007,8,0,Aaron Poreda,10,/players/p/poredaa01.shtml,11.0,9,0,LHP,0.4,0,3,2.45,1,White Sox,CHW,12,3
+2007,103,0,Nate Jones,271,/players/j/jonesna01.shtml,281.0,235,12,RHP,6.1,26,107,3.11,22,White Sox,CHW,308,97
+2008,20,5,Daniel Hudson,9,/players/h/hudsoda01.shtml,34.333333333333336,33,2,RHP,0.2,4,20,4.72,2,White Sox,CHW,28,18
+2008,17,2,Charles Leesman,9,/players/l/leesmch01.shtml,18.0,25,1,LHP,-0.7,3,20,9.0,0,White Sox,CHW,13,18
+2008,4,0,Taylor Thompson,5,/players/t/thompta01.shtml,5.333333333333333,9,0,RHP,-0.2,1,6,10.13,0,White Sox,CHW,4,6
+2009,4,0,Taylor Thompson,5,/players/t/thompta01.shtml,5.333333333333333,9,0,RHP,-0.2,1,6,10.13,0,White Sox,CHW,4,6
+2010,260,148,Chris Sale,228,/players/s/salech01.shtml,1110.0,922,50,LHP,30.3,113,398,3.0,74,White Sox,CHW,1244,370
+2010,75,0,Jake Petricka,181,/players/p/petrija01.shtml,178.0,190,11,RHP,2.4,12,78,3.84,7,White Sox,CHW,131,76
+2010,42,0,Addison Reed,136,/players/r/reedad01.shtml,133.66666666666666,123,6,RHP,1.1,13,64,4.17,8,White Sox,CHW,138,62
+2011,49,18,Erik Johnson,18,/players/j/johnser04.shtml,98.0,105,6,RHP,0.3,19,57,4.5,7,White Sox,CHW,77,49
+2011,3,0,Scott Snodgress,4,/players/s/snodgsc01.shtml,2.3333333333333335,8,0,LHP,-0.3,1,7,15.43,0,White Sox,CHW,1,4
+2011,13,5,Chris Bassitt,6,/players/b/bassich01.shtml,29.666666666666668,34,1,RHP,0.6,0,13,3.94,1,White Sox,CHW,21,13
+2012,66,1,Chris Beck,97,/players/b/beckch02.shtml,119.66666666666667,138,4,RHP,-1.1,24,82,5.94,4,White Sox,CHW,81,79
+2013,13,1,Tyler Danish,11,/players/d/danisty01.shtml,13.0,17,0,RHP,-0.0,2,7,4.85,2,White Sox,CHW,11,7
+2013,14,0,Brad Goldberg,11,/players/g/goldbbr01.shtml,12.0,14,0,RHP,-0.3,2,11,8.25,0,White Sox,CHW,3,11
+2014,211,83,Carlos Rodon,86,/players/r/rodonca01.shtml,494.3333333333333,467,29,LHP,6.6,61,241,4.01,26,White Sox,CHW,473,220
+2014,25,1,Jace Fry,70,/players/f/fryja01.shtml,58.0,49,3,LHP,-0.2,5,36,5.12,2,White Sox,CHW,73,33
+2014,25,0,Aaron Bummer,67,/players/b/bummeaa01.shtml,53.666666666666664,53,4,LHP,0.1,5,30,4.36,1,White Sox,CHW,52,26
+2015,44,13,Carson Fulmer,24,/players/f/fulmeca01.shtml,67.33333333333333,65,7,RHP,-0.8,14,53,6.68,5,White Sox,CHW,58,50
+2016,2,0,Ian Hamilton,10,/players/h/hamilia01.shtml,8.0,6,2,RHP,-0.1,2,5,4.5,1,White Sox,CHW,5,4
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,98,52,David Huff,58,/players/h/huffda01.shtml,288.3333333333333,352,26,LHP,-1.4,41,197,5.4,18,Indians,CLE,162,173
+2006,133,144,Josh Tomlin,183,/players/t/tomlijo01.shtml,898.6666666666666,969,53,RHP,4.7,167,509,4.77,61,Indians,CLE,612,476
+2006,75,0,Vinnie Pestano,192,/players/p/pestavi01.shtml,181.33333333333334,148,8,RHP,4.5,20,63,2.93,5,Indians,CLE,218,59
+2007,4,0,Josh Judy,12,/players/j/judyjo01.shtml,14.0,18,0,RHP,-0.2,4,11,7.07,0,Indians,CLE,10,11
+2008,0,0,Zach Putnam,8,/players/p/putnaza01.shtml,7.333333333333333,10,1,RHP,-0.1,1,5,6.14,1,Indians,CLE,9,5
+2008,2,0,Matt Langwell,5,/players/l/langwma01.shtml,5.333333333333333,5,0,RHP,0.0,1,3,5.06,1,Indians,CLE,6,3
+2008,34,22,T.J. House,27,/players/h/housetj01.shtml,117.66666666666667,140,7,LHP,1.4,11,61,4.44,5,Indians,CLE,89,58
+2009,9,3,Alex White,3,/players/w/whiteal01.shtml,15.0,14,0,RHP,0.2,3,7,3.6,1,Indians,CLE,13,6
+2009,21,0,Austin Adams,53,/players/a/adamsau01.shtml,58.666666666666664,73,0,RHP,-0.6,8,44,6.29,2,Indians,CLE,44,41
+2009,3,0,Preston Guilmet,4,/players/g/guilmpr01.shtml,5.333333333333333,8,0,RHP,-0.3,0,6,10.13,0,Indians,CLE,1,6
+2009,7,0,Joe Colon,11,/players/c/colonjo01.shtml,10.0,12,3,RHP,-0.3,2,9,7.2,1,Indians,CLE,10,8
+2010,173,0,Cody Allen,456,/players/a/allenco01.shtml,440.6666666666667,351,29,RHP,9.0,46,163,2.98,24,Indians,CLE,564,146
+2011,37,24,Cody Anderson,34,/players/a/anderco01.shtml,152.0,162,8,RHP,1.7,22,77,4.5,9,Indians,CLE,98,76
+2011,4,5,Ryan Merritt,9,/players/m/merriry01.shtml,31.666666666666668,32,0,LHP,1.1,0,8,1.71,3,Indians,CLE,13,6
+2011,17,0,Shawn Armstrong,39,/players/a/armstsh01.shtml,43.333333333333336,37,0,RHP,0.7,7,17,3.53,1,Indians,CLE,38,17
+2011,5,0,Shawn Morimando,2,/players/m/morimsh01.shtml,4.666666666666667,9,0,LHP,-0.2,2,6,11.57,0,Indians,CLE,5,6
+2011,173,0,Cody Allen,456,/players/a/allenco01.shtml,440.6666666666667,351,29,RHP,9.0,46,163,2.98,24,Indians,CLE,564,146
+2013,23,0,Kyle Crockett,107,/players/c/crockky01.shtml,65.33333333333333,63,1,LHP,1.2,3,26,3.44,4,Indians,CLE,62,25
+2013,25,12,Adam Plutko,19,/players/p/plutkad01.shtml,80.33333333333333,83,5,RHP,0.1,22,48,5.38,4,Indians,CLE,63,48
+2016,23,19,Shane Bieber,20,/players/b/biebesh01.shtml,114.66666666666667,130,5,RHP,1.0,13,60,4.55,11,Indians,CLE,118,58
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,49,13,Andrew Miller,21,/players/m/millean01.shtml,74.33333333333333,81,6,LHP,-0.3,8,52,5.69,5,Tigers,DET,62,47
+2006,19,3,Duane Below,41,/players/b/belowdu01.shtml,75.33333333333333,77,3,LHP,0.3,8,41,4.06,2,Tigers,DET,43,34
+2006,6,0,Casey Fien,11,/players/f/fienca01.shtml,14.0,17,1,RHP,-0.4,4,14,8.36,0,Tigers,DET,9,13
+2007,263,180,Rick Porcello,184,/players/p/porceri01.shtml,1073.3333333333333,1196,63,RHP,10.6,111,557,4.3,76,Tigers,DET,655,513
+2007,19,0,Luke Putkonen,44,/players/p/putkolu01.shtml,48.333333333333336,55,5,RHP,0.4,6,26,4.66,1,Tigers,DET,39,25
+2007,14,2,Charlie Furbush,17,/players/f/furbuch01.shtml,32.333333333333336,36,3,LHP,0.0,5,18,3.62,1,Tigers,DET,26,13
+2007,11,3,Casey Crosby,3,/players/c/crosbca01.shtml,12.333333333333334,15,1,LHP,-0.4,2,13,9.49,1,Tigers,DET,9,13
+2008,82,0,Ryan Perry,149,/players/p/perryry01.shtml,161.33333333333334,150,6,RHP,0.6,14,81,4.07,5,Tigers,DET,129,73
+2008,8,0,Robbie Weinhardt,30,/players/w/weinhro01.shtml,31.0,44,2,RHP,-1.0,2,25,6.39,2,Tigers,DET,22,22
+2008,2,0,Thad Weber,2,/players/w/weberth01.shtml,4.0,10,1,RHP,-0.2,0,4,9.0,0,Tigers,DET,1,4
+2009,11,6,Jacob Turner,6,/players/t/turneja01.shtml,25.0,34,2,RHP,-1.1,7,24,8.28,1,Tigers,DET,15,23
+2009,21,7,Andy Oliver,7,/players/o/olivean01.shtml,31.666666666666668,37,5,LHP,-0.8,6,29,7.11,0,Tigers,DET,23,25
+2009,6,3,Adam Wilk,8,/players/w/wilkad01.shtml,24.333333333333332,35,3,LHP,-0.4,7,21,6.66,0,Tigers,DET,17,18
+2010,0,0,Chance Ruffin,2,/players/r/ruffich01.shtml,3.6666666666666665,5,0,RHP,0.0,2,2,4.91,0,Tigers,DET,3,2
+2010,81,36,Drew Smyly,107,/players/s/smylydr01.shtml,280.6666666666667,266,12,LHP,5.9,30,117,3.53,16,Tigers,DET,264,110
+2010,44,7,Kyle Ryan,86,/players/r/ryanky01.shtml,128.0,127,6,LHP,1.4,11,58,3.87,8,Tigers,DET,70,55
+2010,9,0,Jeff Ferrell,20,/players/f/ferreje01.shtml,20.666666666666668,29,0,RHP,-0.1,5,15,6.53,0,Tigers,DET,12,15
+2011,3,0,Chad Smith,10,/players/s/smithch09.shtml,11.666666666666666,15,0,RHP,0.0,1,7,5.4,0,Tigers,DET,9,7
+2011,3,0,Guido Knudson,4,/players/k/knudsgu01.shtml,5.0,13,0,RHP,-0.3,5,10,18.0,0,Tigers,DET,6,10
+2012,52,4,Drew VerHagen,105,/players/v/verhadr01.shtml,141.0,139,7,RHP,1.0,20,75,4.79,6,Tigers,DET,105,75
+2013,3,0,Corey Knebel,8,/players/k/knebeco01.shtml,8.666666666666666,11,0,RHP,-0.2,0,7,6.23,0,Tigers,DET,11,6
+2013,103,20,Buck Farmer,109,/players/f/farmebu01.shtml,196.33333333333334,212,15,RHP,-1.1,31,134,5.87,8,Tigers,DET,168,128
+2013,12,0,Zac Reininger,28,/players/r/reiniza01.shtml,31.0,44,0,RHP,-0.5,8,26,7.55,1,Tigers,DET,23,26
+2013,2,0,Joe Mantiply,5,/players/m/mantijo01.shtml,2.6666666666666665,7,0,LHP,-0.2,1,5,16.88,0,Tigers,DET,2,5
+2014,4,3,Spencer Turnbull,4,/players/t/turnbsp01.shtml,16.333333333333332,17,2,RHP,-0.1,1,11,6.06,0,Tigers,DET,15,11
+2014,18,4,Artie Lewicki,17,/players/l/lewicar01.shtml,49.0,67,3,RHP,-0.1,5,32,5.14,0,Tigers,DET,36,28
+2015,3,0,Matt Hall,5,/players/h/hallma02.shtml,8.0,19,0,LHP,-0.6,1,16,14.63,0,Tigers,DET,5,13
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,299,128,Luke Hochevar,279,/players/h/hochelu01.shtml,929.3333333333334,946,65,RHP,3.6,116,550,4.98,46,Royals,KCR,702,514
+2006,54,0,Blake Wood,106,/players/w/woodbl01.shtml,119.33333333333333,120,6,RHP,0.9,11,59,4.3,6,Royals,KCR,93,57
+2006,35,8,Everett Teaford,45,/players/t/teafoev01.shtml,106.0,105,5,LHP,0.9,19,51,4.25,3,Royals,KCR,63,50
+2007,342,158,Danny Duffy,186,/players/d/duffyda01.shtml,924.3333333333334,881,55,LHP,14.1,107,424,3.92,53,Royals,KCR,811,403
+2007,125,0,Greg Holland,309,/players/h/hollagr01.shtml,319.6666666666667,234,12,RHP,10.2,16,94,2.42,18,Royals,KCR,430,86
+2009,99,0,Aaron Crow,254,/players/c/crowaa01.shtml,233.66666666666666,210,11,RHP,2.6,28,98,3.43,20,Royals,KCR,208,89
+2009,1,0,Chris Dwyer,2,/players/d/dwyerch01.shtml,3.0,2,0,LHP,0.1,0,0,0.0,0,Royals,KCR,2,0
+2009,78,0,Louis Coleman,152,/players/c/colemlo01.shtml,177.33333333333334,144,4,RHP,3.1,26,66,3.2,6,Royals,KCR,186,63
+2010,15,0,Jason Adam,31,/players/a/adamja01.shtml,32.333333333333336,30,3,RHP,-0.3,9,22,6.12,0,Royals,KCR,37,22
+2010,38,0,Scott Alexander,79,/players/a/alexasc02.shtml,94.0,91,4,LHP,2.5,4,33,2.78,5,Royals,KCR,78,29
+2010,14,0,Michael Mariot,19,/players/m/mariomi01.shtml,28.0,33,0,RHP,-0.6,3,22,6.11,1,Royals,KCR,22,19
+2011,3,1,Aaron Brooks,4,/players/b/brookaa01.shtml,7.0,18,1,RHP,-0.5,1,16,20.57,0,Royals,KCR,5,16
+2011,68,46,Jakob Junis,50,/players/j/junisja01.shtml,275.3333333333333,283,15,RHP,2.6,47,146,4.35,18,Royals,KCR,244,133
+2012,33,3,Matt Strahm,45,/players/s/strahma01.shtml,56.666666666666664,43,7,LHP,1.0,6,26,3.81,4,Royals,KCR,67,24
+2012,5,0,Alec Mills,3,/players/m/millsal02.shtml,3.3333333333333335,3,0,RHP,-0.2,0,5,13.5,0,Royals,KCR,4,5
+2012,9,0,Jake Newberry,14,/players/n/newbeja01.shtml,13.333333333333334,13,0,RHP,-0.1,3,8,4.73,2,Royals,KCR,11,7
+2013,3,1,Luke Farrell,1,/players/f/farrelu01.shtml,2.6666666666666665,7,0,RHP,-0.2,1,5,16.88,0,Royals,KCR,2,5
+2013,38,0,Kevin McCarthy,108,/players/m/mccarke01.shtml,125.33333333333333,131,4,RHP,1.1,12,59,3.45,7,Royals,KCR,80,48
+2014,14,0,Brandon Finnegan,21,/players/f/finnebr01.shtml,31.333333333333332,22,1,LHP,0.6,3,9,2.59,3,Royals,KCR,31,9
+2014,31,18,Eric Skoglund,21,/players/s/skogler01.shtml,88.0,96,8,LHP,-0.5,14,61,6.03,2,Royals,KCR,63,59
+2014,2,0,Eric Stout,3,/players/s/stouter01.shtml,2.3333333333333335,7,0,LHP,-0.4,2,7,23.14,0,Royals,KCR,2,6
+2014,14,0,Tim Hill,70,/players/h/hillti01.shtml,45.666666666666664,46,4,LHP,-0.4,4,28,4.53,1,Royals,KCR,42,23
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,14,0,Tyler Robertson,42,/players/r/roberty01.shtml,26.0,22,2,LHP,-0.5,5,17,5.54,2,Twins,MIN,28,16
+2006,32,6,Jeff Manship,41,/players/m/manshje01.shtml,85.66666666666667,107,2,RHP,-1.0,11,63,6.2,3,Twins,MIN,56,59
+2006,7,0,Anthony Slama,7,/players/s/slamaan01.shtml,7.0,6,1,RHP,0.1,1,4,5.14,0,Twins,MIN,8,4
+2008,54,0,Michael Tonkin,141,/players/t/tonkimi01.shtml,146.33333333333334,155,3,RHP,-0.3,25,89,4.43,3,Twins,MIN,149,72
+2009,336,159,Kyle Gibson,159,/players/g/gibsoky01.shtml,927.0,967,61,RHP,9.4,104,487,4.47,54,Twins,MIN,685,460
+2010,19,0,Alex Wimmers,22,/players/w/wimmeal01.shtml,24.666666666666668,22,3,RHP,0.2,4,12,4.38,1,Twins,MIN,21,12
+2010,23,9,Pat Dean,19,/players/d/deanpa02.shtml,67.33333333333333,88,6,LHP,-0.3,13,47,6.28,1,Twins,MIN,50,47
+2010,8,4,Logan Darnell,7,/players/d/darnelo01.shtml,24.0,31,2,LHP,-0.4,5,20,7.13,0,Twins,MIN,22,19
+2010,25,0,Ryan O'Rourke,54,/players/o/orourry01.shtml,47.0,34,1,LHP,0.0,6,28,4.98,0,Twins,MIN,48,26
+2010,9,0,A.J. Achter,18,/players/a/achteaj01.shtml,24.333333333333332,26,1,RHP,-0.2,6,17,5.18,1,Twins,MIN,19,14
+2011,4,0,Jason Wheeler,2,/players/w/wheelja01.shtml,3.0,6,0,LHP,-0.1,1,5,9.0,0,Twins,MIN,0,3
+2012,144,71,Jose Berrios,72,/players/b/berrijo01.shtml,396.3333333333333,364,26,RHP,4.1,52,210,4.47,29,Twins,MIN,390,197
+2012,74,37,Tyler Duffey,111,/players/d/duffety01.shtml,287.0,328,18,RHP,-0.8,44,186,5.46,18,Twins,MIN,253,174
+2012,53,0,Taylor Rogers,198,/players/r/rogerta01.shtml,185.33333333333334,164,6,LHP,4.1,16,69,3.21,11,Twins,MIN,188,66
+2013,18,4,Kohl Stewart,8,/players/s/stewako01.shtml,36.666666666666664,34,1,RHP,0.6,1,16,3.68,2,Twins,MIN,24,15
+2013,22,4,Stephen Gonsalves,7,/players/g/gonsast01.shtml,24.666666666666668,28,2,LHP,-0.6,2,22,6.57,2,Twins,MIN,16,18
+2013,8,5,Aaron Slegers,8,/players/s/slegeaa01.shtml,29.0,29,2,RHP,-0.2,6,20,5.9,1,Twins,MIN,15,19
+2014,6,0,John Curtiss,17,/players/c/curtijo02.shtml,15.0,17,1,RHP,-0.2,2,12,7.2,0,Twins,MIN,17,12
+2014,32,0,Trevor Hildenberger,110,/players/h/hildetr01.shtml,115.0,113,9,RHP,0.2,16,61,4.62,7,Twins,MIN,114,59
+2015,2,0,Andrew Vasquez,9,/players/v/vasquan02.shtml,5.0,5,0,LHp,-0.1,0,4,5.4,1,Twins,MIN,7,3
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,51,0,Jordan Walden,123,/players/w/waldejo01.shtml,114.66666666666667,97,8,RHP,1.5,7,41,3.06,8,Angels,LAA,138,39
+2007,4,0,Ryan Brasier,7,/players/b/brasiry01.shtml,9.0,7,0,RHP,0.2,1,2,2.0,0,Angels,LAA,7,2
+2008,71,25,Tyler Chatwood,27,/players/c/chatwty01.shtml,142.0,166,11,RHP,-0.5,14,81,4.75,6,Angels,LAA,74,75
+2008,8,0,Buddy Boshers,25,/players/b/boshebu01.shtml,15.333333333333334,13,0,LHP,0.0,0,8,4.7,0,Angels,LAA,13,8
+2008,73,0,Michael Kohn,126,/players/k/kohnmi01.shtml,110.33333333333333,84,6,RHP,1.1,14,46,3.67,5,Angels,LAA,107,45
+2008,4,0,Andrew Taylor,3,/players/t/tayloan01.shtml,2.3333333333333335,3,0,LHP,-0.1,0,3,11.57,0,Angels,LAA,0,3
+2009,268,115,Garrett Richards,170,/players/r/richaga01.shtml,744.6666666666666,662,38,RHP,7.7,62,342,3.54,45,Angels,LAA,645,293
+2009,19,0,David Carpenter,30,/players/c/carpeda02.shtml,43.0,45,2,RHP,-0.4,7,25,5.23,1,Angels,LAA,29,25
+2011,18,0,Nick Maronde,33,/players/m/maronni01.shtml,17.666666666666668,22,0,LHP,-0.8,1,16,7.13,0,Angels,LAA,19,14
+2012,15,1,Michael Roth,22,/players/r/rothmi01.shtml,32.333333333333336,40,1,LHP,-1.0,2,28,7.79,2,Angels,LAA,26,28
+2012,45,0,Mike Morin,177,/players/m/morinmi01.shtml,164.33333333333334,160,8,RHP,-1.0,15,92,4.49,10,Angels,LAA,154,82
+2013,27,0,Keynan Middleton,80,/players/m/middlke01.shtml,76.0,74,1,RHP,1.4,12,29,3.43,6,Angels,LAA,79,29
+2014,1,0,Jake Jewell,3,/players/j/jewelja01.shtml,2.0,2,1,RHP,-0.1,0,2,9.0,0,Angels,LAA,1,2
+2014,40,0,Justin Anderson,57,/players/a/anderju01.shtml,55.333333333333336,42,3,RHP,0.4,3,25,4.07,3,Angels,LAA,67,25
+2014,10,0,Greg Mahle,24,/players/m/mahlegr01.shtml,18.333333333333332,23,0,LHP,-0.3,4,13,5.4,1,Angels,LAA,14,11
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,217,96,Trevor Cahill,96,/players/c/cahiltr01.shtml,583.0,554,35,RHP,9.7,65,274,3.91,40,Athletics,OAK,355,253
+2006,49,0,Andrew Bailey,157,/players/b/bailean01.shtml,174.0,117,10,RHP,6.4,11,43,2.07,7,Athletics,OAK,174,40
+2007,47,0,Sean Doolittle,254,/players/d/doolise01.shtml,253.0,188,13,1B,4.9,22,89,3.09,13,Athletics,OAK,300,87
+2007,12,0,Andrew Carignan,17,/players/c/carigan01.shtml,16.0,16,1,RHP,0.0,1,9,4.5,1,Athletics,OAK,13,8
+2008,70,21,Tyson Ross,53,/players/r/rossty01.shtml,148.66666666666666,168,18,RHP,-0.6,12,92,5.33,6,Athletics,OAK,102,88
+2009,88,41,Dan Straily,41,/players/s/straida01.shtml,230.0,201,11,RHP,1.8,36,114,4.11,13,Athletics,OAK,190,105
+2010,73,47,A.J. Griffin,47,/players/g/griffaj01.shtml,282.3333333333333,245,11,RHP,4.9,46,120,3.6,21,Athletics,OAK,235,113
+2011,225,112,Sonny Gray,114,/players/g/grayso01.shtml,705.0,621,36,RHP,11.4,62,305,3.42,44,Athletics,OAK,607,268
+2012,44,0,Ryan Dull,160,/players/d/dullry01.shtml,158.66666666666666,121,9,RHP,1.8,24,73,3.63,8,Athletics,OAK,155,64
+2013,7,5,Dillon Overton,7,/players/o/overtdi01.shtml,24.333333333333332,48,3,LHP,-1.1,12,31,11.47,1,Athletics,OAK,17,31
+2013,4,0,Bobby Wahl,7,/players/w/wahlbo01.shtml,7.666666666666667,8,0,RHP,0.0,0,4,4.7,0,Athletics,OAK,8,4
+2013,31,1,Lou Trivino,69,/players/t/trivilo01.shtml,74.0,53,3,RHP,1.6,8,24,2.92,8,Athletics,OAK,82,24
+2014,39,23,Daniel Gossett,23,/players/g/gosseda01.shtml,115.66666666666667,141,14,RHP,-0.6,26,81,5.91,4,Athletics,OAK,84,76
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,128,15,Brandon Morrow,131,/players/m/morrobr01.shtml,197.66666666666666,162,12,RHP,2.2,23,93,3.96,8,Mariners,SEA,204,87
+2006,79,59,Doug Fister,60,/players/f/fistedo01.shtml,378.0,389,30,RHP,4.4,31,171,3.81,12,Mariners,SEA,218,160
+2007,39,0,Shawn Kelley,120,/players/k/kellesh01.shtml,128.0,121,9,RHP,1.1,19,54,3.52,10,Mariners,SEA,122,50
+2008,4,0,Bobby LaFromboise,10,/players/l/lafrobo01.shtml,10.666666666666666,12,1,LHP,-0.2,0,8,5.91,0,Mariners,SEA,11,7
+2008,46,21,Brandon Maurer,60,/players/m/maurebr01.shtml,159.66666666666666,188,12,RHP,-1.6,22,105,5.58,6,Mariners,SEA,125,99
+2009,10,7,Anthony Vasquez,7,/players/v/vasquan01.shtml,29.333333333333332,46,6,LHP,-1.4,13,35,8.9,1,Mariners,SEA,13,29
+2010,99,62,Taijuan Walker,65,/players/w/walketa01.shtml,357.0,334,22,RHP,2.6,54,186,4.18,22,Mariners,SEA,322,166
+2010,168,102,James Paxton,102,/players/p/paxtoja01.shtml,582.3333333333334,523,26,LHP,11.0,54,244,3.42,41,Mariners,SEA,617,221
+2010,16,0,Stephen Pryor,34,/players/p/pryorst01.shtml,32.0,26,1,RHP,0.5,5,14,2.81,3,Mariners,SEA,35,10
+2011,34,0,Carter Capps,71,/players/c/cappsca01.shtml,84.0,98,3,RHP,-0.4,12,48,5.04,3,Mariners,SEA,94,47
+2011,25,0,Carson Smith,79,/players/s/smithca02.shtml,78.33333333333333,51,5,RHP,2.8,2,19,2.07,3,Mariners,SEA,102,18
+2012,64,0,Edwin Diaz,188,/players/d/diazed04.shtml,191.0,130,14,RHP,5.5,20,61,2.64,4,Mariners,SEA,301,56
+2012,34,0,Dominic Leone,67,/players/l/leonedo01.shtml,77.66666666666667,63,6,RHP,1.0,5,27,2.78,8,Mariners,SEA,77,24
+2013,10,0,Tyler Olson,11,/players/o/olsonty01.shtml,13.333333333333334,18,1,LHP,-0.1,2,8,5.4,1,Mariners,SEA,8,8
+2013,8,0,Emilio Pagan,34,/players/p/paganem01.shtml,50.333333333333336,39,3,RHP,0.7,7,20,3.22,2,Mariners,SEA,56,18
+2014,36,0,Dan Altavilla,78,/players/a/altavda01.shtml,79.66666666666667,65,3,RHP,0.9,11,35,3.28,4,Mariners,SEA,85,29
+2015,8,9,Andrew Moore,11,/players/m/moorean02.shtml,59.0,60,5,RHP,0.0,14,36,5.34,1,Mariners,SEA,31,35
+2016,2,1,Matt Festa,8,/players/f/festama01.shtml,8.333333333333334,13,0,RHP,0.2,0,2,2.16,0,Mariners,SEA,4,2
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,311,158,Derek Holland,179,/players/h/hollade01.shtml,985.0,997,50,LHP,9.9,132,517,4.35,62,Rangers,TEX,790,476
+2007,74,44,Tommy Hunter,53,/players/h/hunteto02.shtml,266.3333333333333,274,13,RHP,4.0,39,136,4.36,23,Rangers,TEX,151,129
+2007,1,0,Matt West,3,/players/w/westma03.shtml,4.0,6,0,3B,0.0,0,3,6.75,0,Rangers,TEX,3,3
+2008,72,12,Robbie Ross,150,/players/r/rossro01.shtml,205.66666666666666,221,8,LHP,1.2,16,107,3.98,13,Rangers,TEX,156,91
+2008,5,0,Cody Eppley,10,/players/e/eppleco01.shtml,9.0,11,1,RHP,-0.4,3,8,8.0,1,Rangers,TEX,6,8
+2009,72,4,Tanner Scheppers,180,/players/s/schepta01.shtml,183.0,184,7,RHP,0.7,24,95,4.23,12,Rangers,TEX,148,86
+2010,10,0,Luke Jackson,15,/players/j/jackslu01.shtml,18.0,27,0,RHP,-0.7,5,17,8.5,0,Rangers,TEX,9,17
+2010,34,19,Justin Grimm,22,/players/g/grimmju01.shtml,103.0,138,8,RHP,-2.0,16,81,6.73,8,Rangers,TEX,81,77
+2010,71,39,Nick Tepesch,42,/players/t/tepesni01.shtml,219.0,228,17,RHP,0.8,27,119,4.56,9,Rangers,TEX,132,111
+2010,4,0,Ben Rowen,8,/players/r/rowenbe01.shtml,8.666666666666666,10,0,RHP,0.1,0,4,4.15,0,Rangers,TEX,7,4
+2010,48,2,Alex Claudio,208,/players/c/claudal01.shtml,230.66666666666666,243,6,LHP,5.2,15,90,3.2,13,Rangers,TEX,158,82
+2011,11,2,Connor Sadzeck,13,/players/s/sadzeco01.shtml,9.333333333333334,6,0,RHP,0.4,0,2,0.96,0,Rangers,TEX,7,1
+2011,7,0,Andrew Faulkner,20,/players/f/faulkan01.shtml,16.333333333333332,16,0,LHP,-0.1,5,10,4.41,0,Rangers,TEX,11,8
+2011,148,68,Nick Martinez,88,/players/m/martini01.shtml,415.3333333333333,454,30,RHP,1.6,68,243,4.77,17,Rangers,TEX,237,220
+2011,22,2,Phil Klein,36,/players/k/kleinph01.shtml,45.0,42,3,RHP,0.0,9,26,4.8,2,Rangers,TEX,47,24
+2012,66,0,Keone Kela,180,/players/k/kelake01.shtml,169.66666666666666,128,10,RHP,3.7,17,67,3.45,19,Rangers,TEX,208,65
+2013,41,13,Chi Chi Gonzalez,17,/players/g/gonzach01.shtml,77.33333333333333,70,8,RHP,0.4,7,46,4.54,4,Rangers,TEX,37,39
+2013,7,0,Nick Gardewine,15,/players/g/gardeni01.shtml,13.0,17,0,RHP,-0.1,1,10,4.85,0,Rangers,TEX,7,7
+2015,14,2,Jeffrey Springs,18,/players/s/sprinje01.shtml,32.0,32,1,LHP,0.6,4,14,3.38,1,Rangers,TEX,31,12
+2015,4,0,C.D. Pelham,10,/players/p/pelhacd01.shtml,7.666666666666667,12,0,LHP,-0.1,0,6,7.04,0,Rangers,TEX,7,6
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,281,118,Bud Norris,119,/players/n/norribu01.shtml,689.6666666666666,687,46,RHP,4.3,85,368,4.33,34,Astros,HOU,643,332
+2008,117,65,Jordan Lyles,72,/players/l/lylesjo01.shtml,377.0,431,29,RHP,-2.7,51,256,5.35,14,Astros,HOU,259,224
+2008,2,0,Jordan Jankowski,3,/players/j/jankojo01.shtml,4.333333333333333,7,0,C,-0.2,3,6,12.46,1,Astros,HOU,5,6
+2009,343,183,Dallas Keuchel,192,/players/k/keuchda01.shtml,1189.3333333333333,1144,63,LHP,18.2,115,521,3.66,76,Astros,HOU,945,484
+2010,21,7,Vince Velasquez,19,/players/v/velasvi01.shtml,55.666666666666664,50,1,RHP,0.2,5,28,4.37,1,Astros,HOU,58,27
+2010,16,2,Jake Buchanan,22,/players/b/buchaja01.shtml,44.333333333333336,46,3,RHP,0.1,5,21,4.06,1,Astros,HOU,25,20
+2011,9,4,Nick Tropeano,4,/players/t/tropeni01.shtml,21.666666666666668,19,3,RHP,-0.1,0,12,4.57,1,Astros,HOU,13,11
+2012,178,80,Lance McCullers Jr.,83,/players/m/mcculla02.shtml,453.6666666666667,400,22,RHP,6.1,35,199,3.67,29,Astros,HOU,509,185
+2012,7,1,Brady Rodgers,5,/players/r/rodgebr01.shtml,8.333333333333334,15,1,RHP,-0.6,0,14,15.12,0,Astros,HOU,3,14
+2012,2,0,Jordan Jankowski,3,/players/j/jankojo01.shtml,4.333333333333333,7,0,RHP,-0.2,3,6,12.46,1,Astros,HOU,5,6
+2014,1,0,Dean Deetz,4,/players/d/deetzde01.shtml,3.3333333333333335,4,0,RHP,0.0,1,2,5.4,0,Astros,HOU,3,2
+2014,7,3,Josh James,6,/players/j/jamesjo02.shtml,23.0,15,0,RHP,0.7,3,6,2.35,2,Astros,HOU,29,6
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,3,0,Cory Rasmus,3,/players/r/rasmuco02.shtml,6.666666666666667,8,0,RHP,-0.2,4,6,8.1,0,Braves,ATL,6,6
+2006,121,61,Kris Medlen,152,/players/m/medlekr01.shtml,512.6666666666666,471,20,RHP,9.0,42,185,2.95,34,Braves,ATL,434,168
+2007,33,0,Cory Gearrin,77,/players/g/gearrco01.shtml,69.33333333333333,64,3,RHP,-0.2,3,33,4.28,3,Braves,ATL,68,33
+2007,108,0,Craig Kimbrel,294,/players/k/kimbrcr01.shtml,289.0,153,10,RHP,12.0,12,51,1.43,15,Braves,ATL,476,46
+2008,108,0,Craig Kimbrel,294,/players/k/kimbrcr01.shtml,289.0,153,10,RHP,12.0,12,51,1.43,15,Braves,ATL,476,46
+2009,187,110,Mike Minor,111,/players/m/minormi01.shtml,652.6666666666666,639,36,LHP,3.6,82,311,4.1,38,Braves,ATL,566,297
+2009,40,8,David Hale,47,/players/h/haleda02.shtml,98.33333333333333,100,5,RHP,1.1,5,39,3.02,5,Braves,ATL,58,33
+2009,11,7,Ryan Weber,21,/players/w/weberry01.shtml,64.66666666666667,71,4,RHP,0.0,10,37,5.15,1,Braves,ATL,42,37
+2010,3,0,Chasen Shreve,15,/players/s/shrevch01.shtml,12.333333333333334,10,0,LHP,0.4,0,1,0.73,0,Braves,ATL,15,1
+2011,7,0,Cody Martin,21,/players/m/martico01.shtml,21.666666666666668,24,3,RHP,-0.3,4,13,5.4,2,Braves,ATL,24,13
+2011,1,0,John Cornely,1,/players/c/cornejo01.shtml,1.0,3,0,RHP,-0.1,1,4,36.0,0,Braves,ATL,1,4
+2011,6,0,Gus Schlosser,15,/players/s/schlogu01.shtml,17.666666666666668,23,1,RHP,-0.7,2,16,7.64,0,Braves,ATL,8,15
+2012,31,10,Lucas Sims,20,/players/s/simslu01.shtml,68.0,76,6,RHP,-0.3,11,46,5.96,3,Braves,ATL,54,45
+2012,108,55,Alex Wood,86,/players/w/woodal02.shtml,368.6666666666667,359,20,LHP,7.1,27,137,3.1,21,Braves,ATL,337,127
+2012,11,0,Shae Simmons,33,/players/s/simmosh01.shtml,28.333333333333332,21,2,RHP,0.5,1,9,2.54,1,Braves,ATL,26,8
+2013,17,0,Matt Marksberry,35,/players/m/marksma01.shtml,26.666666666666668,27,3,LHP,-0.4,3,18,5.06,0,Braves,ATL,23,15
+2014,9,0,Chad Sobotka,14,/players/s/sobotch01.shtml,14.333333333333334,5,0,RHP,0.4,2,3,1.88,1,Braves,ATL,21,3
+2015,4,1,Kolby Allard,3,/players/a/allarko01.shtml,8.0,19,1,LHP,-0.6,3,12,12.38,1,Braves,ATL,3,11
+2015,7,5,Mike Soroka,5,/players/s/sorokmi01.shtml,25.666666666666668,30,1,RHP,0.0,1,14,3.51,2,Braves,ATL,21,10
+2015,24,0,A.J. Minter,81,/players/m/minteaj01.shtml,76.33333333333333,70,4,LHP,1.1,4,28,3.18,4,Braves,ATL,95,27
+2015,4,0,Evan Phillips,4,/players/p/phillev01.shtml,6.333333333333333,6,0,RHP,-0.1,3,6,8.53,0,Braves,ATL,3,6
+2016,6,1,Bryse Wilson,3,/players/w/wilsobr02.shtml,7.0,8,0,RHP,-0.1,0,5,6.43,1,Braves,ATL,6,5
+2017,6,0,Kyle Wright,4,/players/w/wrighky01.shtml,6.0,4,0,RHP,0.0,2,3,4.5,0,Braves,ATL,5,3
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,11,0,Cole Kimball,12,/players/k/kimbaco01.shtml,14.0,8,0,RHP,0.4,0,3,1.93,1,Nationals,WSN,11,3
+2006,6,2,Brad Peacock,3,/players/p/peacobr01.shtml,12.0,7,0,RHP,0.7,0,1,0.75,2,Nationals,WSN,4,1
+2007,154,69,Ross Detwiler,132,/players/d/detwiro01.shtml,471.0,493,32,LHP,3.2,40,237,3.82,20,Nationals,WSN,285,200
+2008,4,5,Tommy Milone,5,/players/m/milonto01.shtml,26.0,28,0,LHP,0.4,2,11,3.81,1,Nationals,WSN,15,11
+2009,321,206,Stephen Strasburg,206,/players/s/strasst01.shtml,1229.6666666666667,1024,52,RHP,26.2,119,478,3.14,94,Nationals,WSN,1444,429
+2009,96,0,Drew Storen,355,/players/s/storedr01.shtml,334.0,281,13,RHP,5.2,24,121,3.02,21,Nationals,WSN,321,112
+2009,25,15,Taylor Jordan,18,/players/j/jordata01.shtml,94.33333333333333,113,8,RHP,-0.6,6,57,4.48,1,Nationals,WSN,57,47
+2009,6,3,Nate Karns,3,/players/k/karnsna01.shtml,12.0,17,1,RHP,-0.4,5,11,7.5,0,Nationals,WSN,11,10
+2010,56,0,Sammy Solis,141,/players/s/solissa01.shtml,127.66666666666667,121,7,LHP,0.3,14,68,4.51,5,Nationals,WSN,136,64
+2010,48,19,A.J. Cole,26,/players/c/coleaj01.shtml,110.0,118,8,RHP,-0.2,22,73,5.32,5,Nationals,WSN,102,65
+2010,39,1,Matt Grace,127,/players/g/gracema02.shtml,129.66666666666666,132,2,LHP,1.5,8,58,3.54,4,Nationals,WSN,97,51
+2010,27,0,Aaron Barrett,90,/players/b/barreaa01.shtml,70.0,61,3,RHP,0.4,2,32,3.47,6,Nationals,WSN,84,27
+2011,7,1,Taylor Hill,9,/players/h/hillta01.shtml,21.0,30,1,RHP,-0.2,2,14,6.0,0,Nationals,WSN,14,14
+2012,12,4,Lucas Giolito,6,/players/g/giolilu01.shtml,21.333333333333332,26,1,RHP,-0.5,7,18,6.75,0,Nationals,WSN,11,16
+2013,6,2,Austin Voth,4,/players/v/vothau01.shtml,12.333333333333334,12,1,RHP,-0.1,3,9,6.57,1,Nationals,WSN,11,9
+2014,30,14,Erick Fedde,14,/players/f/feddeer01.shtml,65.66666666666667,80,5,RHP,-0.2,13,47,6.44,2,Nationals,WSN,61,47
+2014,6,0,Austen Williams,10,/players/w/williau01.shtml,9.666666666666666,10,1,RHP,0.0,5,6,5.59,0,Nationals,WSN,8,6
+2015,21,0,Koda Glover,63,/players/g/gloveko01.shtml,55.333333333333336,48,4,RHP,0.2,5,29,4.55,3,Nationals,WSN,42,28
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,52,0,Joe Smith,136,/players/s/smithjo05.shtml,107.66666666666667,99,5,RHP,1.4,7,46,3.51,9,Mets,NYM,97,42
+2006,4,0,Tobi Stoner,5,/players/s/stoneto01.shtml,11.333333333333334,12,1,RHP,0.1,2,5,3.97,0,Mets,NYM,5,5
+2006,7,0,Josh Stinson,14,/players/s/stinsjo01.shtml,13.0,14,2,RHP,-0.5,1,10,6.92,0,Mets,NYM,8,10
+2007,1,0,Eddie Kunz,4,/players/k/kunzed01.shtml,2.6666666666666665,5,0,RHP,-0.2,1,4,13.5,0,Mets,NYM,1,4
+2007,11,0,Robert Carson,31,/players/c/carsoro01.shtml,33.0,34,0,LHP,-0.9,11,26,6.82,0,Mets,NYM,13,25
+2007,216,110,Dillon Gee,114,/players/g/geedi01.shtml,679.3333333333334,674,37,RHP,4.9,79,325,4.03,40,Mets,NYM,489,304
+2008,11,5,Collin McHugh,11,/players/m/mchugco01.shtml,28.333333333333332,39,5,RHP,-1.2,7,29,8.26,0,Mets,NYM,20,26
+2008,9,6,Chris Schwinden,7,/players/s/schwich01.shtml,29.666666666666668,38,3,RHP,-0.7,5,26,6.98,0,Mets,NYM,18,23
+2009,118,71,Steven Matz,71,/players/m/matzst01.shtml,388.6666666666667,380,26,LHP,5.1,55,185,3.98,20,Mets,NYM,363,172
+2010,175,104,Matt Harvey,109,/players/h/harvema01.shtml,639.3333333333334,587,37,RHP,10.4,65,273,3.66,34,Mets,NYM,612,260
+2010,222,139,Jacob deGrom,139,/players/d/degroja01.shtml,897.6666666666666,740,41,RHP,25.8,76,291,2.67,55,Mets,NYM,1000,266
+2010,3,0,Akeel Morris,1,/players/m/morriak01.shtml,0.6666666666666666,3,0,RHP,-0.2,1,5,67.5,0,Mets,NYM,0,5
+2010,38,0,Erik Goeddel,110,/players/g/goedder01.shtml,104.66666666666667,88,4,RHP,0.7,14,48,3.96,3,Mets,NYM,109,46
+2010,52,0,Josh Edgin,177,/players/e/edginjo01.shtml,129.0,113,4,LHP,1.7,13,54,3.49,4,Mets,NYM,116,50
+2011,10,3,Tyler Pill,7,/players/p/pillty01.shtml,22.0,22,3,RHP,-0.3,3,16,5.32,0,Mets,NYM,16,13
+2011,7,0,Jack Leathersich,17,/players/l/leathja01.shtml,11.666666666666666,12,1,LHP,0.3,0,3,2.31,0,Mets,NYM,14,3
+2011,85,29,Robert Gsellman,101,/players/g/gsellro01.shtml,244.33333333333334,256,12,RHP,0.4,26,141,4.38,18,Mets,NYM,194,119
+2011,74,31,Seth Lugo,90,/players/l/lugose01.shtml,266.6666666666667,244,11,RHP,4.7,29,112,3.44,15,Mets,NYM,233,102
+2011,13,0,Chasen Bradford,28,/players/b/bradfch02.shtml,33.666666666666664,30,0,RHP,0.3,3,17,3.74,2,Mets,NYM,27,14
+2012,20,12,Corey Oswalt,17,/players/o/oswalco01.shtml,64.66666666666667,69,3,RHP,-0.5,14,43,5.85,3,Mets,NYM,45,42
+2012,44,0,Paul Sewald,103,/players/s/sewalpa01.shtml,121.66666666666667,120,13,RHP,-0.9,16,75,5.25,0,Mets,NYM,127,71
+2012,41,10,Chris Flexen,18,/players/f/flexech01.shtml,54.333333333333336,76,8,RHP,-1.9,13,57,8.45,3,Mets,NYM,39,51
+2012,5,0,Tim Peterson,22,/players/p/peterti01.shtml,27.666666666666668,29,2,RHP,-0.4,8,19,6.18,2,Mets,NYM,25,19
+2013,12,0,Tyler Bashlor,24,/players/b/bashlty01.shtml,32.0,26,3,RHP,0.1,6,16,4.22,0,Mets,NYM,25,15
+2013,6,0,Kevin McGowan,8,/players/m/mcgowke01.shtml,8.666666666666666,8,0,RHP,0.0,2,5,5.19,0,Mets,NYM,8,5
+2015,2,2,P.J. Conlon,3,/players/c/conlopj01.shtml,7.666666666666667,15,0,LHP,-0.2,2,7,8.22,0,Mets,NYM,5,7
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,9,1,Drew Carpenter,11,/players/c/carpean01.shtml,19.0,30,1,RHP,-0.6,4,18,8.53,1,Phillies,PHI,18,18
+2007,19,0,Joe Savery,41,/players/s/saverjo01.shtml,47.666666666666664,42,2,LHP,-0.3,5,28,4.15,3,Phillies,PHI,32,22
+2007,0,0,Tyson Brummett,1,/players/b/brummty01.shtml,0.6666666666666666,2,0,RHP,0.0,0,0,0.0,0,Phillies,PHI,2,0
+2007,77,0,Justin De Fratus,191,/players/d/defraju01.shtml,194.0,190,6,RHP,0.8,16,99,4.08,7,Phillies,PHI,170,88
+2007,95,0,Jake Diekman,191,/players/d/diekmja01.shtml,173.33333333333334,165,11,LHP,-0.2,9,91,3.84,9,Phillies,PHI,225,74
+2008,97,46,Vance Worley,53,/players/w/worleva01.shtml,277.6666666666667,278,13,RHP,4.7,23,118,3.5,18,Phillies,PHI,238,108
+2008,41,20,Jonathan Pettibone,20,/players/p/pettijo02.shtml,109.33333333333333,126,5,RHP,0.9,11,60,4.45,5,Phillies,PHI,72,54
+2008,40,0,Michael Stutes,79,/players/s/sttuemi01.shtml,85.33333333333333,70,3,RHP,0.4,8,42,4.01,9,Phillies,PHI,72,38
+2008,30,1,B.J. Rosenberg,57,/players/r/rosenbj01.shtml,56.666666666666664,58,2,RHP,-0.7,9,37,5.72,4,Phillies,PHI,52,36
+2008,23,0,Michael Schwimer,47,/players/s/schwimi01.shtml,48.666666666666664,45,2,RHP,-0.1,5,26,4.62,3,Phillies,PHI,52,25
+2008,32,17,Tyler Cloyd,19,/players/c/cloydty01.shtml,93.33333333333333,116,9,RHP,-0.8,15,63,5.98,4,Phillies,PHI,71,62
+2010,61,35,David Buchanan,35,/players/b/buchada01.shtml,192.33333333333334,229,17,RHP,0.0,24,115,5.01,8,Phillies,PHI,115,107
+2010,21,0,Mario Hollands,50,/players/h/hollama01.shtml,47.0,45,2,LHP,0.0,3,25,4.4,2,Phillies,PHI,35,23
+2011,86,36,Adam Morgan,142,/players/m/morgaad01.shtml,301.6666666666667,329,23,LHP,1.1,52,176,4.89,10,Phillies,PHI,257,164
+2011,36,0,Ken Giles,113,/players/g/gileske01.shtml,115.66666666666667,84,4,RHP,3.7,3,30,1.56,9,Phillies,PHI,151,20
+2011,24,0,Yacksel Rios,49,/players/r/riosya01.shtml,52.333333333333336,58,2,RHP,-0.4,10,36,6.02,4,Phillies,PHI,53,35
+2011,15,0,Colton Murray,32,/players/m/murraco02.shtml,39.333333333333336,45,2,RHP,-0.5,8,27,6.18,1,Phillies,PHI,40,27
+2011,7,0,Jesen Therrien,15,/players/d/dygesje01.shtml,18.333333333333332,24,0,RHP,-0.4,5,17,8.35,0,Phillies,PHI,10,17
+2012,19,0,Hoby Milner,47,/players/m/milneho01.shtml,36.0,36,0,LHP,1.0,3,11,2.75,0,Phillies,PHI,26,11
+2012,3,1,Drew Anderson,7,/players/a/anderdr02.shtml,15.0,23,1,RHP,-0.1,0,14,7.8,0,Phillies,PHI,13,13
+2013,39,11,Mark Leiter,39,/players/l/leitema02.shtml,107.33333333333333,112,7,RHP,-0.6,23,76,5.03,3,Phillies,PHI,97,60
+2014,155,93,Aaron Nola,93,/players/n/nolaaa01.shtml,569.0,493,28,RHP,16.4,56,223,3.35,41,Phillies,PHI,597,212
+2014,12,0,Austin Davis,32,/players/d/davisau01.shtml,34.666666666666664,35,2,LHP,0.2,4,20,4.15,1,Phillies,PHI,38,16
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,5,0,Brett Sinkbeil,3,/players/s/sinkbbr01.shtml,2.0,2,0,RHP,-0.2,0,3,13.5,0,Marlins,FLA,1,3
+2006,4,0,Chris Hatcher,11,/players/h/hatchch02.shtml,10.333333333333334,14,0,C,-0.2,2,8,6.97,0,Marlins,FLA,8,8
+2006,12,3,Graham Taylor,3,/players/t/taylogr01.shtml,11.0,16,2,LHP,-0.5,0,14,8.18,0,Marlins,FLA,5,10
+2006,14,1,Jay Buente,9,/players/b/buentja01.shtml,14.0,21,1,RHP,-0.3,0,12,7.07,0,Marlins,FLA,10,11
+2006,19,14,Alex Sanabia,18,/players/s/sanabal01.shtml,83.33333333333333,87,3,RHP,1.4,8,36,3.67,5,Marlins,FLA,55,34
+2007,20,0,Steve Cishek,48,/players/c/cishest01.shtml,59.0,46,1,RHP,1.4,1,18,2.44,2,Marlins,FLA,58,16
+2008,35,12,Brad Hand,12,/players/h/handbr01.shtml,60.0,53,8,LHP,0.5,10,32,4.2,1,Marlins,FLA,38,28
+2008,5,1,Elih Villanueva,1,/players/v/villael01.shtml,3.0,5,1,RHP,-0.4,1,8,24.0,0,Marlins,FLA,2,8
+2009,173,0,AJ Ramos,325,/players/r/ramosaj01.shtml,327.3333333333333,229,16,RHP,6.5,18,108,2.78,15,Marlins,MIA,379,101
+2010,5,0,Austin Brice,15,/players/b/briceau01.shtml,14.0,9,1,RHP,-0.4,2,12,7.07,0,Marlins,MIA,14,11
+2011,140,76,Jose Fernandez,76,/players/f/fernajo02.shtml,471.3333333333333,357,17,RHP,12.8,31,150,2.58,38,Marlins,MIA,589,135
+2011,143,56,Adam Conley,114,/players/c/conlead01.shtml,353.6666666666667,341,19,LHP,0.5,44,186,4.53,23,Marlins,MIA,305,178
+2011,6,3,Jake Esch,3,/players/e/eschja01.shtml,13.0,17,1,2B,-0.1,4,8,5.54,0,Marlins,MIA,10,8
+2012,7,5,Andrew Heaney,7,/players/h/heanean01.shtml,29.333333333333332,32,3,LHP,-0.3,6,19,5.83,0,Marlins,MIA,20,19
+2012,45,0,Drew Steckenrider,108,/players/s/steckdr01.shtml,99.33333333333333,85,5,RHP,0.6,11,42,3.35,5,Marlins,MIA,128,37
+2012,38,0,Nick Wittgren,118,/players/w/wittgni01.shtml,127.66666666666667,125,5,RHP,1.0,12,53,3.6,9,Marlins,MIA,116,51
+2012,64,0,Brian Ellington,97,/players/e/ellinbr02.shtml,102.66666666666667,92,4,RHP,-0.4,10,59,4.65,7,Marlins,MIA,98,53
+2014,34,11,Dillon Peters,13,/players/p/peterdi01.shtml,59.0,66,4,LHP,-0.6,7,40,6.1,3,Marlins,MIA,44,40
+2015,14,0,Ben Meyer,13,/players/m/meyerbe02.shtml,19.0,26,0,RHP,-0.8,2,23,10.42,0,Marlins,MIA,9,22
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,6,0,Jeremy Jeffress,10,/players/j/jeffrje01.shtml,10.0,8,0,RHP,7.7,0,4,2.7,1,Brewers,MIL,8,3
+2006,15,0,Mike McClendon,35,/players/m/mcclemi01.shtml,48.666666666666664,50,0,RHP,0.2,4,23,3.88,5,Brewers,MIL,35,21
+2007,21,7,Donovan Hand,31,/players/h/handdo01.shtml,68.33333333333333,71,5,RHP,0.6,10,29,3.69,1,Brewers,MIL,37,28
+2008,22,0,Rob Wooten,71,/players/w/wootero01.shtml,68.0,74,5,RHP,-0.3,3,38,5.03,4,Brewers,MIL,53,38
+2009,11,6,Hiram Burgos,6,/players/b/burgohi01.shtml,29.333333333333332,38,2,RHP,-0.8,5,23,6.44,1,Brewers,MIL,18,21
+2009,34,9,Tyler Cravy,34,/players/c/cravyty01.shtml,71.0,68,9,RHP,0.0,8,39,4.56,0,Brewers,MIL,57,36
+2009,105,56,Mike Fiers,71,/players/f/fiersmi01.shtml,341.6666666666667,318,28,RHP,4.4,41,152,3.66,21,Brewers,MIL,349,139
+2010,223,104,Jimmy Nelson,109,/players/n/nelsoji02.shtml,611.3333333333334,604,44,RHP,4.9,65,315,4.12,33,Brewers,MIL,552,280
+2010,91,10,Tyler Thornburg,144,/players/t/thornty01.shtml,219.66666666666666,170,9,RHP,4.1,23,83,2.87,14,Brewers,MIL,220,70
+2011,65,27,Taylor Jungmann,30,/players/j/jungmta01.shtml,146.66666666666666,138,13,RHP,0.8,15,80,4.54,9,Brewers,MIL,126,74
+2011,19,2,Jorge Lopez,13,/players/l/lopezjo02.shtml,31.666666666666668,34,2,RHP,0.3,1,13,3.69,1,Brewers,MIL,25,13
+2011,13,0,David Goforth,31,/players/g/goforda01.shtml,36.333333333333336,50,0,RHP,-0.5,7,27,5.94,1,Brewers,MIL,33,24
+2011,62,0,Jacob Barnes,149,/players/b/barneja01.shtml,147.33333333333334,132,6,RHP,0.8,13,68,3.54,3,Brewers,MIL,153,58
+2012,7,3,Tyler Wagner,3,/players/w/wagnety01.shtml,13.666666666666666,22,2,RHP,-0.3,1,11,7.24,0,Brewers,MIL,5,11
+2012,3,0,Damien Magnifico,3,/players/m/magnida01.shtml,3.0,2,0,RHP,0.0,0,2,6.0,0,Brewers,MIL,0,2
+2012,46,34,Brent Suter,56,/players/s/suterbr01.shtml,204.66666666666666,210,11,LHP,2.0,29,96,3.91,13,Brewers,MIL,163,89
+2013,27,0,Taylor Williams,61,/players/w/willita01.shtml,57.666666666666664,57,3,RHP,-0.2,6,29,4.06,1,Brewers,MIL,61,26
+2014,28,12,Brandon Woodruff,27,/players/w/woodrbr01.shtml,85.33333333333333,79,3,RHP,0.8,9,41,4.22,5,Brewers,MIL,79,40
+2016,11,0,Corbin Burnes,30,/players/b/burneco01.shtml,38.0,27,0,RHP,0.7,4,11,2.61,7,Brewers,MIL,35,11
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,265,83,Jeff Samardzija,206,/players/s/samarje01.shtml,666.0,621,42,RHP,5.6,68,330,3.97,31,Cubs,CHC,639,294
+2006,24,0,Blake Parker,74,/players/p/parkebl01.shtml,73.33333333333333,73,3,C,0.3,10,37,3.68,2,Cubs,CHC,85,30
+2007,82,5,James Russell,316,/players/r/russeja02.shtml,272.0,268,16,LHP,0.3,38,137,3.87,10,Cubs,CHC,203,117
+2007,34,1,Andrew Cashner,60,/players/c/cashnan01.shtml,65.0,58,6,RHP,0.3,9,33,4.29,2,Cubs,CHC,58,31
+2008,34,1,Andrew Cashner,60,/players/c/cashnan01.shtml,65.0,58,6,RHP,0.3,9,33,4.29,2,Cubs,CHC,58,31
+2008,7,0,Chris Carpenter,10,/players/c/carpech02.shtml,9.666666666666666,12,0,RHP,0.2,1,3,2.79,0,Cubs,CHC,8,3
+2008,83,26,Casey Coleman,48,/players/c/colemca01.shtml,165.66666666666666,195,13,RHP,-0.7,18,109,5.76,7,Cubs,CHC,118,106
+2008,12,0,Jeff Beliveau,22,/players/b/belivje01.shtml,17.666666666666668,21,0,LHP,0.0,5,9,4.58,1,Cubs,CHC,17,9
+2009,40,20,Chris Rusin,24,/players/r/rusinch01.shtml,108.66666666666667,120,9,LHP,0.1,13,62,4.97,4,Cubs,CHC,65,60
+2009,19,5,Brooks Raley,14,/players/r/raleybr01.shtml,38.333333333333336,44,2,LHP,-0.9,9,32,7.04,1,Cubs,CHC,30,30
+2010,4,1,Eric Jokisch,4,/players/j/jokiser01.shtml,14.333333333333334,18,0,LHP,0.3,3,6,1.88,0,Cubs,CHC,10,3
+2010,14,5,Dallas Beeler,5,/players/b/beeleda01.shtml,19.333333333333332,24,3,RHP,-0.4,0,16,6.05,0,Cubs,CHC,13,13
+2011,11,0,Dillon Maples,15,/players/m/mapledi01.shtml,10.666666666666666,13,0,RHP,-0.5,2,13,10.97,1,Cubs,CHC,20,13
+2012,1,0,Pierce Johnson,1,/players/j/johnspi01.shtml,1.0,2,0,RHP,-0.1,0,2,0.0,0,Cubs,CHC,2,0
+2012,3,1,Duane Underwood Jr.,1,/players/u/underdu01.shtml,4.0,2,1,RHP,0.2,1,1,2.25,0,Cubs,CHC,3,1
+2013,16,1,Rob Zastryzny,18,/players/z/zastrro01.shtml,34.666666666666664,37,0,LHP,0.3,2,19,4.41,2,Cubs,CHC,31,17
+2014,5,0,James Norwood,11,/players/n/norwoja01.shtml,11.0,14,1,RHP,-0.1,0,7,4.09,0,Cubs,CHC,10,5
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,19,0,Jordan Smith,54,/players/s/smithjo06.shtml,62.0,77,2,RHP,-0.5,10,34,4.94,3,Reds,CIN,39,34
+2006,6,0,Josh Roenicke,16,/players/r/roenijo01.shtml,16.333333333333332,19,0,RHP,0.2,0,7,3.86,0,Reds,CIN,20,7
+2007,6,0,Jeremy Horst,12,/players/h/horstje01.shtml,15.333333333333334,18,0,LHP,0.1,2,6,2.93,0,Reds,CIN,9,5
+2007,24,0,Curtis Partch,20,/players/p/partccu01.shtml,30.333333333333332,19,1,RHP,-0.1,8,16,4.75,1,Reds,CIN,22,16
+2008,22,1,Pedro Villarreal,44,/players/v/villape01.shtml,71.33333333333333,81,6,RHP,-0.2,11,39,4.29,1,Reds,CIN,46,34
+2008,0,0,Justin Freeman,1,/players/f/freemju02.shtml,1.0,2,0,RHP,-0.1,1,2,18.0,0,Reds,CIN,0,2
+2009,260,163,Mike Leake,168,/players/l/leakemi01.shtml,1028.3333333333333,1051,47,RHP,8.2,126,474,3.87,62,Reds,CIN,701,442
+2009,8,0,Nick Christiani,13,/players/c/chrisni01.shtml,17.0,14,1,RHP,-0.1,3,9,4.76,0,Reds,CIN,9,9
+2010,6,0,Drew Hayes,6,/players/h/hayesdr01.shtml,9.666666666666666,15,0,RHP,-0.4,3,10,8.38,0,Reds,CIN,8,9
+2010,47,9,Josh Smith,41,/players/s/smithjo07.shtml,92.33333333333333,99,7,RHP,-0.5,16,59,5.46,3,Reds,CIN,78,56
+2011,84,22,Robert Stephenson,37,/players/s/stephro01.shtml,133.33333333333334,139,11,RHP,-0.9,23,90,5.47,7,Reds,CIN,128,81
+2011,148,30,Tony Cingrani,164,/players/c/cingrto01.shtml,292.6666666666667,248,20,LHP,2.1,44,136,4.03,11,Reds,CIN,302,131
+2011,65,14,Amir Garrett,82,/players/g/garream01.shtml,133.66666666666666,130,10,LHP,-1.1,31,90,5.93,4,Reds,CIN,134,88
+2011,90,41,Sal Romano,55,/players/r/romansa01.shtml,232.66666666666666,246,19,RHP,0.0,32,141,4.99,13,Reds,CIN,178,129
+2012,15,8,Jon Moscot,8,/players/m/moscojo01.shtml,33.0,37,4,RHP,-0.6,12,28,6.82,1,Reds,CIN,16,25
+2012,24,4,Jackson Stephens,36,/players/s/stephja01.shtml,63.333333333333336,69,4,RHP,-0.6,13,43,4.83,4,Reds,CIN,54,34
+2013,138,24,Michael Lorenzen,177,/players/l/lorenmi01.shtml,327.3333333333333,328,16,RHP,2.1,38,161,4.21,18,Reds,CIN,265,153
+2013,2,0,Zack Weiss,1,/players/w/weissza01.shtml,0.0,2,0,RHP,0.0,2,4,inf,0,Reds,CIN,0,4
+2013,64,27,Tyler Mahle,27,/players/m/mahlety01.shtml,132.0,144,11,RHP,0.6,22,74,4.64,8,Reds,CIN,124,68
+2013,2,2,Daniel Wright,4,/players/w/wrighda04.shtml,13.0,25,2,RHP,-0.7,2,16,7.62,0,Reds,CIN,6,11
+2013,3,0,Layne Somsen,2,/players/s/somsela01.shtml,2.3333333333333335,6,0,RHP,-0.2,2,5,19.29,0,Reds,CIN,2,5
+2015,12,0,Tanner Rainey,8,/players/r/raineta01.shtml,7.0,13,0,RHP,-1.0,4,19,24.43,0,Reds,CIN,7,19
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,45,22,Brad Lincoln,51,/players/l/lincobr01.shtml,159.66666666666666,171,9,RHP,0.6,21,88,4.62,7,Pirates,PIT,114,82
+2006,102,0,Jared Hughes,313,/players/h/hugheja02.shtml,309.3333333333333,294,13,RHP,3.8,23,118,2.82,15,Pirates,PIT,189,97
+2006,5,0,Michael Crotta,15,/players/c/crottmi01.shtml,10.666666666666666,20,1,RHP,-0.6,2,11,9.28,0,Pirates,PIT,7,11
+2007,9,0,Daniel Moskos,31,/players/m/moskoda01.shtml,24.333333333333332,29,1,LHP,0.2,0,11,2.96,1,Pirates,PIT,11,8
+2007,0,0,Duke Welker,2,/players/w/welkedu01.shtml,1.3333333333333333,0,0,RHP,0.0,0,0,0.0,0,Pirates,PIT,1,0
+2007,121,0,Tony Watson,450,/players/w/watsoto01.shtml,433.0,350,16,LHP,9.6,41,137,2.68,31,Pirates,PIT,380,129
+2007,7,3,Kyle McPherson,10,/players/m/mcpheky01.shtml,26.333333333333332,24,2,RHP,0.5,3,8,2.73,0,Pirates,PIT,21,8
+2008,61,0,Justin Wilson,136,/players/w/wilsoju10.shtml,138.33333333333334,109,5,LHP,1.5,8,48,2.99,9,Pirates,PIT,127,46
+2009,2,0,Vic Black,3,/players/b/blackvi01.shtml,4.0,6,0,RHP,0.0,0,2,4.5,0,Pirates,PIT,3,2
+2009,4,1,Phil Irwin,1,/players/i/irwinph01.shtml,4.666666666666667,6,0,RHP,-0.2,0,5,7.71,0,Pirates,PIT,4,4
+2010,109,75,Jameson Taillon,75,/players/t/taillja01.shtml,428.6666666666667,430,21,RHP,8.5,44,178,3.63,27,Pirates,PIT,389,173
+2010,26,15,Nick Kingham,18,/players/k/kinghni01.shtml,76.0,79,7,RHP,-0.5,18,50,5.21,5,Pirates,PIT,69,44
+2010,23,15,Brandon Cumpton,22,/players/c/cumptbr01.shtml,100.66666666666667,108,5,RHP,0.1,3,49,4.02,5,Pirates,PIT,68,45
+2010,9,1,Casey Sadler,9,/players/s/sadleca02.shtml,19.666666666666668,25,1,RHP,-0.4,1,18,6.86,1,Pirates,PIT,15,15
+2011,203,127,Gerrit Cole,127,/players/c/colege01.shtml,782.3333333333334,749,42,RHP,11.4,67,327,3.5,59,Pirates,PIT,734,304
+2011,91,17,Tyler Glasnow,56,/players/g/glasnty01.shtml,141.33333333333334,150,11,RHP,-1.7,20,102,5.79,3,Pirates,PIT,152,91
+2011,23,4,Clay Holmes,11,/players/h/holmecl01.shtml,26.333333333333332,30,3,RHP,-0.5,2,21,6.84,1,Pirates,PIT,21,20
+2013,125,61,Chad Kuhl,61,/players/k/kuhlch01.shtml,313.0,321,20,RHP,2.6,38,162,4.37,18,Pirates,PIT,276,152
+2014,5,0,Alex McRae,2,/players/m/mcraeal01.shtml,6.333333333333333,8,1,RHP,-0.1,0,4,5.68,0,Pirates,PIT,5,4
+2015,8,0,Tanner Anderson,6,/players/a/anderta01.shtml,11.333333333333334,15,0,RHP,-0.3,1,10,6.35,1,Pirates,PIT,6,8
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,9,3,Adam Ottavino,5,/players/o/ottavad01.shtml,22.333333333333332,37,2,RHP,-0.6,5,21,8.46,0,Cardinals,STL,12,21
+2006,37,0,Chris Perez,70,/players/p/perezch01.shtml,65.33333333333333,51,4,RHP,0.4,8,30,3.72,4,Cardinals,STL,72,27
+2006,21,4,P.J. Walters,19,/players/w/waltepj01.shtml,50.0,56,0,RHP,-1.3,12,43,7.38,2,Cardinals,STL,39,41
+2007,1,0,Clayton Mortensen,1,/players/m/mortecl01.shtml,3.0,5,0,RHP,-0.2,1,6,6.0,0,Cardinals,STL,2,2
+2007,2,0,Jess Todd,1,/players/t/toddje01.shtml,1.6666666666666665,3,0,RHP,-0.1,1,2,10.8,0,Cardinals,STL,2,2
+2007,1,0,C.J. Fick,2,/players/f/fickch01.shtml,1.6666666666666665,3,0,RHP,0.0,0,1,5.4,0,Cardinals,STL,0,1
+2007,34,0,Sam Freeman,81,/players/f/freemsa01.shtml,70.33333333333333,59,2,LHP,0.6,4,29,3.33,3,Cardinals,STL,61,26
+2007,10,0,Michael Blazek,11,/players/b/blazemi01.shtml,10.333333333333334,10,0,RHP,-0.2,2,8,6.97,0,Cardinals,STL,10,8
+2008,369,161,Lance Lynn,183,/players/l/lynnla01.shtml,977.6666666666666,890,47,RHP,14.7,86,398,3.38,72,Cardinals,STL,919,367
+2008,1,0,Eric Fornataro,8,/players/f/fornaer01.shtml,9.666666666666666,11,0,RHP,-0.1,0,6,4.66,0,Cardinals,STL,3,5
+2008,13,0,Mitch Harris,26,/players/h/harrimi03.shtml,27.0,30,1,RHP,0.0,4,14,3.67,2,Cardinals,STL,15,11
+2008,34,0,Sam Freeman,81,/players/f/freemsa01.shtml,70.33333333333333,59,2,LHP,0.6,4,29,3.33,3,Cardinals,STL,61,26
+2008,114,0,Kevin Siegrist,269,/players/s/siegrke01.shtml,240.66666666666666,179,10,LHP,4.4,24,84,3.03,18,Cardinals,STL,279,81
+2009,134,63,Shelby Miller,69,/players/m/millesh01.shtml,370.0,321,18,RHP,5.6,42,145,3.33,26,Cardinals,STL,312,137
+2009,90,38,Joe Kelly,68,/players/k/kellyjo05.shtml,266.0,277,14,RHP,3.2,23,111,3.25,17,Cardinals,STL,179,96
+2009,143,0,Trevor Rosenthal,328,/players/r/rosentr01.shtml,325.0,281,24,RHP,5.8,17,115,2.99,11,Cardinals,STL,435,108
+2009,12,0,Keith Butler,18,/players/b/butleke01.shtml,22.0,19,0,RHP,-0.1,0,15,6.14,0,Cardinals,STL,18,15
+2010,38,0,Sam Tuivailala,96,/players/t/tuivasa01.shtml,98.66666666666667,100,7,SS,0.8,11,41,3.65,6,Cardinals,STL,88,40
+2010,5,3,John Gast,3,/players/g/gastjo01.shtml,12.333333333333334,11,0,LHP,0.0,1,7,5.11,2,Cardinals,STL,8,7
+2010,84,20,Tyler Lyons,147,/players/l/lyonsty01.shtml,268.3333333333333,239,10,LHP,0.7,36,132,4.09,12,Cardinals,STL,272,122
+2010,4,0,Josh Lucas,5,/players/l/lucasjo02.shtml,7.333333333333333,7,0,RHP,0.1,2,3,3.68,0,Cardinals,STL,7,3
+2010,7,0,Dean Kiekhefer,26,/players/k/kiekhde01.shtml,22.0,24,0,LHP,0.0,2,13,5.32,0,Cardinals,STL,14,13
+2011,45,0,Seth Maness,244,/players/m/manesse01.shtml,237.33333333333334,253,10,RHP,2.1,20,95,3.19,17,Cardinals,STL,152,84
+2011,6,0,Ryan Sherriff,18,/players/s/sherrry01.shtml,20.0,21,1,LHP,0.1,3,9,4.05,2,Cardinals,STL,18,9
+2012,10,6,Tim Cooney,6,/players/c/cooneti01.shtml,31.333333333333332,28,0,LHP,0.6,3,12,3.16,1,Cardinals,STL,29,11
+2013,22,7,Marco Gonzales,12,/players/g/gonzama02.shtml,40.666666666666664,45,2,LHP,-0.2,8,25,5.53,4,Cardinals,STL,34,25
+2013,22,1,Mike Mayers,57,/players/m/mayermi01.shtml,61.666666666666664,83,2,RHP,-1.3,12,52,7.15,3,Cardinals,STL,54,49
+2014,83,43,Luke Weaver,52,/players/w/weavelu01.shtml,233.0,255,17,RHP,-1.0,33,139,4.79,15,Cardinals,STL,238,124
+2014,69,33,Jack Flaherty,34,/players/f/flaheja01.shtml,172.33333333333334,131,11,RHP,2.3,24,74,3.71,8,Cardinals,STL,202,71
+2014,32,11,Austin Gomber,29,/players/g/gombeau01.shtml,75.0,81,2,LHP,0.0,7,40,4.44,6,Cardinals,STL,67,37
+2014,13,4,Daniel Ponce de Leon,11,/players/p/ponceda01.shtml,33.0,24,2,RHP,0.7,2,10,2.73,0,Cardinals,STL,31,10
+2015,45,0,Jordan Hicks,73,/players/h/hicksjo03.shtml,77.66666666666667,59,4,RHP,0.3,2,33,3.59,3,Cardinals,STL,70,31
+2016,18,0,Dakota Hudson,26,/players/h/hudsoda02.shtml,27.333333333333332,19,1,RHP,0.5,0,9,2.63,4,Cardinals,STL,19,8
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,536,316,Clayton Kershaw,318,/players/k/kershcl01.shtml,2096.3333333333335,1570,69,LHP,62.1,145,609,2.39,153,Dodgers,LAD,2275,557
+2008,28,0,Josh Lindblom,75,/players/l/lindbjo01.shtml,77.33333333333333,63,2,RHP,1.5,9,25,2.91,3,Dodgers,LAD,71,25
+2008,40,16,Nathan Eovaldi,20,/players/e/eovalna01.shtml,91.0,91,8,RHP,1.1,7,41,3.96,2,Dodgers,LAD,57,40
+2008,8,0,Danny Coulombe,10,/players/c/couloda01.shtml,12.666666666666666,14,0,LHP,-0.2,1,10,6.39,0,Dodgers,LAD,11,9
+2008,28,6,Matt Magill,6,/players/m/magilma01.shtml,27.666666666666668,27,2,RHP,-1.0,6,25,6.51,0,Dodgers,LAD,26,20
+2010,1,1,Zach Lee,1,/players/l/leeza01.shtml,4.666666666666667,11,1,RHP,-0.3,1,7,13.5,0,Dodgers,LAD,3,7
+2010,3,1,Red Patterson,1,/players/p/pattere02.shtml,4.666666666666667,2,0,RHP,0.2,0,1,1.93,0,Dodgers,LAD,1,1
+2010,22,0,Shawn Tolleson,41,/players/t/tollesh01.shtml,37.666666666666664,30,1,RHP,0.1,4,19,4.3,3,Dodgers,LAD,39,18
+2012,30,0,Paco Rodriguez,124,/players/r/rodrist02.shtml,85.33333333333333,55,5,LHP,2.1,6,25,2.53,4,Dodgers,LAD,91,24
+2012,4,0,Onelki Garcia,3,/players/g/garcion01.shtml,1.3333333333333333,1,0,LHP,-0.1,1,2,13.5,0,Dodgers,LAD,1,2
+2012,71,37,Ross Stripling,104,/players/s/stripro01.shtml,296.3333333333333,288,20,RHP,3.9,38,119,3.52,16,Dodgers,LAD,284,116
+2012,8,0,Danny Coulombe,10,/players/c/couloda01.shtml,12.666666666666666,14,0,LHP,-0.2,1,10,6.39,0,Dodgers,LAD,11,9
+2013,7,4,Jose De Leon,4,/players/d/deleojo03.shtml,17.0,19,0,RHP,-0.6,5,17,6.35,2,Dodgers,LAD,15,12
+2014,40,11,Brock Stewart,33,/players/s/stewabr01.shtml,80.0,84,3,RHP,-0.7,15,51,4.84,2,Dodgers,LAD,68,43
+2014,12,3,Caleb Ferguson,29,/players/f/ferguca01.shtml,49.0,43,2,LHP,0.3,8,21,3.49,7,Dodgers,LAD,59,19
+2015,45,23,Walker Buehler,32,/players/b/buehlwa01.shtml,146.66666666666666,106,5,RHP,3.2,14,51,2.95,9,Dodgers,LAD,163,48
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,113,52,Wade LeBlanc,54,/players/l/leblawa01.shtml,293.3333333333333,305,22,LHP,0.2,44,149,4.54,17,Padres,SDP,205,148
+2006,135,72,Mat Latos,72,/players/l/latosma01.shtml,429.6666666666667,361,29,RHP,5.1,39,174,3.37,27,Padres,SDP,413,161
+2007,58,25,Cory Luebke,55,/players/l/luebkco01.shtml,188.33333333333334,150,12,LHP,2.5,16,72,3.25,10,Padres,SDP,195,68
+2007,9,0,Colt Hynes,22,/players/h/hynesco01.shtml,17.0,25,0,LHP,-0.7,3,17,9.0,0,Padres,SDP,13,17
+2008,80,18,Anthony Bass,75,/players/b/bassan01.shtml,187.33333333333334,181,8,RHP,0.3,17,94,4.08,4,Padres,SDP,135,85
+2008,39,0,Nick Vincent,161,/players/v/vinceni01.shtml,150.66666666666666,121,6,RHP,2.6,8,46,2.63,9,Padres,SDP,161,44
+2008,59,0,Brad Brach,109,/players/b/brachbr01.shtml,104.66666666666667,95,6,RHP,-0.0,14,48,3.7,3,Padres,SDP,117,43
+2009,16,0,Miles Mikolas,27,/players/m/mikolmi01.shtml,34.0,32,1,RHP,0.2,4,15,3.44,2,Padres,SDP,24,13
+2010,24,0,Josh Spence,51,/players/s/spencjo01.shtml,40.0,27,3,LHP,0.5,3,14,3.15,0,Padres,SDP,41,14
+2011,76,0,Kevin Quackenbush,193,/players/q/quackke01.shtml,198.66666666666666,181,14,RHP,1.2,21,93,4.08,13,Padres,SDP,179,90
+2011,55,24,Colin Rea,25,/players/r/reaco01.shtml,131.0,130,7,RHP,-0.4,14,79,4.81,7,Padres,SDP,102,70
+2011,21,7,Burch Smith,10,/players/s/smithbu03.shtml,36.333333333333336,39,3,RHP,-0.7,9,26,6.44,1,Padres,SDP,46,26
+2012,10,3,Walker Lockett,4,/players/l/lockewa01.shtml,15.0,22,3,RHP,-0.7,4,16,9.6,0,Padres,SDP,12,16
+2013,10,0,Adam Cimber,42,/players/c/cimbead01.shtml,48.333333333333336,42,5,RHP,0.5,2,19,3.17,3,Padres,SDP,51,17
+2013,2,1,Kyle Lloyd,1,/players/l/lloydky01.shtml,4.0,6,0,RHP,-0.1,1,4,9.0,0,Padres,SDP,2,4
+2014,9,0,Kyle McGrath,21,/players/m/mcgraky01.shtml,23.0,17,0,LHP,0.4,4,8,3.13,0,Padres,SDP,20,8
+2015,13,9,Jacob Nix,9,/players/n/nixja02.shtml,42.333333333333336,52,5,RHP,-1.1,8,33,7.02,2,Padres,SDP,21,33
+2015,12,6,Brett Kennedy,6,/players/k/kennebr02.shtml,26.666666666666668,36,2,RHP,-0.6,6,20,6.75,1,Padres,SDP,18,20
+2015,11,0,Trey Wingenter,22,/players/w/wingetr01.shtml,19.0,13,0,RHP,0.1,3,8,3.79,0,Padres,SDP,27,8
+2015,37,0,Phil Maton,91,/players/m/matonph01.shtml,90.33333333333333,91,4,RHP,-0.3,13,48,4.28,3,Padres,SDP,101,43
+2016,46,23,Eric Lauer,23,/players/l/lauerer01.shtml,112.0,127,7,LHP,-0.2,15,61,4.34,6,Padres,SDP,100,54
+2016,43,26,Joey Lucchesi,26,/players/l/lucchjo01.shtml,130.0,125,9,LHP,0.5,23,63,4.08,8,Padres,SDP,145,59
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,646,261,Tim Lincecum,269,/players/l/linceti01.shtml,1643.6666666666667,1438,83,RHP,21.8,136,705,3.61,108,Giants,SFG,1704,660
+2007,385,252,Madison Bumgarner,255,/players/b/bumgama01.shtml,1638.3333333333333,1431,83,LHP,29.8,162,604,3.03,110,Giants,SFG,1591,552
+2007,44,1,Dan Runzler,89,/players/r/runzlda01.shtml,72.33333333333333,65,2,LHP,0.1,2,34,3.86,4,Giants,SFG,78,31
+2007,16,0,Steve Edlefsen,27,/players/e/edlefst01.shtml,26.666666666666668,37,1,RHP,-0.7,3,20,6.75,0,Giants,SFG,15,20
+2007,2,0,Dan Otero,12,/players/o/oteroda01.shtml,12.333333333333334,19,0,RHP,-0.3,0,11,5.84,0,Giants,SFG,8,8
+2008,17,7,Eric Surkamp,7,/players/s/surkaer01.shtml,29.333333333333332,41,3,LHP,-0.9,3,25,7.36,2,Giants,SFG,13,24
+2009,73,32,Chris Heston,38,/players/h/hestoch01.shtml,188.0,184,12,RHP,1.2,16,91,4.16,13,Giants,SFG,148,87
+2009,12,0,Jake Dunning,30,/players/d/dunnija01.shtml,26.0,20,2,RHP,0.3,2,8,2.77,0,Giants,SFG,16,8
+2010,2,0,Heath Hembree,9,/players/h/hembrhe01.shtml,7.666666666666667,4,0,RHP,0.3,0,0,0.0,0,Giants,SFG,12,0
+2010,11,3,Mike Kickham,14,/players/k/kickhmi01.shtml,30.333333333333332,54,3,LHP,-1.6,9,39,10.98,0,Giants,SFG,30,37
+2010,3,0,Brett Bochy,7,/players/b/bochybr02.shtml,6.333333333333333,2,0,RHP,0.1,1,2,2.84,0,Giants,SFG,6,2
+2011,17,0,Kyle Crick,30,/players/c/crickky01.shtml,32.333333333333336,22,0,RHP,0.4,2,13,3.06,0,Giants,SFG,28,11
+2011,61,0,Josh Osich,160,/players/o/osichjo01.shtml,120.33333333333333,123,5,LHP,-1.0,20,75,5.01,6,Giants,SFG,105,67
+2011,10,0,Ray Black,26,/players/b/blackra01.shtml,23.333333333333332,17,2,RHP,-0.4,4,16,6.17,2,Giants,SFG,33,16
+2011,31,0,Derek Law,109,/players/l/lawde01.shtml,105.66666666666667,105,3,RHP,1.1,10,47,3.83,9,Giants,SFG,97,45
+2011,4,0,Cody Hall,7,/players/h/hallco01.shtml,8.333333333333334,10,0,RHP,-0.1,1,6,6.48,0,Giants,SFG,7,6
+2012,87,36,Chris Stratton,48,/players/s/stratch01.shtml,213.66666666666666,223,14,RHP,0.7,25,116,4.63,15,Giants,SFG,169,110
+2012,15,0,Steven Okert,70,/players/o/okertst01.shtml,48.333333333333336,42,1,LHP,0.2,6,24,4.28,1,Giants,SFG,44,23
+2012,89,39,Ty Blach,85,/players/b/blachty01.shtml,299.3333333333333,320,19,LHP,2.2,26,155,4.36,15,Giants,SFG,158,145
+2013,0,0,Dan Slania,1,/players/s/slanida01.shtml,1.0,0,0,RHP,0.0,0,0,0.0,0,Giants,SFG,0,0
+2013,3,0,D.J. Snelten,4,/players/s/sneltdj01.shtml,4.333333333333333,9,0,LHP,-0.2,2,6,10.38,0,Giants,SFG,4,5
+2014,8,2,Tyler Beede,2,/players/b/beedety01.shtml,7.666666666666667,9,1,RHP,-0.3,0,7,8.22,0,Giants,SFG,9,7
+2015,45,29,Andrew Suarez,29,/players/s/suarean01.shtml,160.33333333333334,163,13,LHP,0.5,23,85,4.49,7,Giants,SFG,130,80
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,36,16,Greg Reynolds,27,/players/r/reynogr01.shtml,94.0,123,8,RHP,-1.4,20,80,7.47,5,Rockies,COL,40,78
+2006,6,0,Will Harris,20,/players/h/harriwi10.shtml,17.666666666666668,27,1,RHP,-0.5,3,18,8.15,1,Rockies,COL,19,16
+2007,40,0,Matt Reynolds,165,/players/r/reynoma02.shtml,126.0,123,3,LHP,2.2,23,59,3.93,5,Rockies,COL,118,55
+2007,0,0,Bruce Billings,1,/players/b/billibr02.shtml,2.0,5,0,RHP,0.0,0,1,4.5,0,Rockies,COL,0,1
+2008,65,19,Christian Friedrich,100,/players/f/friedch01.shtml,167.33333333333334,202,16,LHP,-0.8,22,119,5.81,5,Rockies,COL,146,108
+2009,63,24,Tyler Matzek,25,/players/m/matzety01.shtml,139.66666666666666,141,12,LHP,2.5,11,63,4.06,8,Rockies,COL,106,63
+2009,140,0,Rex Brothers,286,/players/b/brothre01.shtml,242.33333333333334,221,11,LHP,5.0,21,103,3.42,16,Rockies,COL,278,92
+2009,21,0,Rob Scahill,41,/players/s/scahiro01.shtml,57.0,64,0,RHP,0.6,8,28,4.42,2,Rockies,COL,35,28
+2010,189,89,Chad Bettis,125,/players/b/bettich01.shtml,537.0,594,25,RHP,4.0,69,322,5.01,30,Rockies,COL,389,299
+2010,31,15,Christian Bergman,55,/players/b/bergmch01.shtml,147.66666666666666,196,9,RHP,-0.3,24,97,5.79,7,Rockies,COL,90,95
+2010,2,0,Kenny Roberts,9,/players/r/roberke02.shtml,9.333333333333334,13,1,LHP,0.0,0,6,5.79,0,Rockies,COL,5,6
+2011,113,66,Tyler Anderson,68,/players/a/anderty01.shtml,376.3333333333333,372,21,LHP,7.4,58,192,4.3,18,Rockies,COL,344,180
+2012,70,28,Eddie Butler,36,/players/b/butleed01.shtml,159.33333333333334,212,16,RHP,-2.1,28,126,6.5,6,Rockies,COL,94,115
+2012,11,0,Matt Carasiti,19,/players/c/carasma01.shtml,15.666666666666666,25,0,RHP,-0.6,1,17,9.19,1,Rockies,COL,17,16
+2012,78,0,Scott Oberg,210,/players/o/obergsc01.shtml,201.33333333333334,200,7,RHP,2.5,21,102,4.29,12,Rockies,COL,176,96
+2013,155,89,Jon Gray,89,/players/g/grayjo02.shtml,491.3333333333333,498,25,RHP,7.0,59,267,4.65,32,Rockies,COL,520,254
+2014,133,61,Kyle Freeland,66,/players/f/freelky01.shtml,358.3333333333333,351,18,LHP,11.6,34,142,3.39,28,Rockies,COL,280,135
+2014,3,0,Sam Howard,4,/players/h/howarsa01.shtml,4.0,5,0,LHP,0.1,0,1,2.25,0,Rockies,COL,1,1
+2014,22,0,Harrison Musgrave,35,/players/m/musgrha01.shtml,44.666666666666664,36,3,LHP,0.5,7,23,4.63,2,Rockies,COL,32,23
+2014,1,0,Jerry Vasto,1,/players/v/vastoje01.shtml,0.6666666666666666,3,0,LHP,-0.2,0,3,40.5,0,Rockies,COL,1,3
+drafted,BB,GS,name,G,url,IP,H,L,handed,war,HR,R,ERA,W,team,short_team,K,ER
+2006,84,37,Max Scherzer,46,/players/s/scherma01.shtml,226.33333333333334,214,15,RHP,2.6,25,118,3.86,9,Diamondbacks,ARI,240,97
+2006,6,0,Daniel Stange,4,/players/s/stangda01.shtml,4.0,4,0,RHP,-0.2,1,6,13.5,0,Diamondbacks,ARI,2,6
+2006,24,0,Clay Zavada,49,/players/z/zavadcl01.shtml,51.0,45,3,LHP,0.6,5,22,3.35,3,Diamondbacks,ARI,52,19
+2007,1,1,Jarrod Parker,1,/players/p/parkeja02.shtml,5.666666666666667,4,0,RHP,0.4,0,0,0.0,0,Diamondbacks,ARI,1,0
+2007,44,24,Barry Enright,24,/players/e/enrigba01.shtml,136.66666666666666,147,11,RHP,0.5,31,74,4.87,7,Diamondbacks,ARI,70,74
+2007,6,2,Bryan Augenstein,7,/players/a/augenbr01.shtml,17.0,23,1,RHP,-0.5,2,16,7.94,0,Diamondbacks,ARI,6,15
+2007,157,75,Josh Collmenter,200,/players/c/collmjo01.shtml,659.3333333333334,621,33,RHP,7.4,78,274,3.54,36,Diamondbacks,ARI,460,259
+2008,15,0,Daniel Schlereth,21,/players/s/schleda01.shtml,18.333333333333332,15,4,LHP,-0.2,1,13,5.89,1,Diamondbacks,ARI,22,12
+2008,196,102,Wade Miley,106,/players/m/mileywa01.shtml,638.6666666666666,649,35,LHP,5.0,64,290,3.79,38,Diamondbacks,ARI,499,269
+2008,32,0,Bryan Shaw,97,/players/s/shawbr01.shtml,87.66666666666667,90,6,RHP,0.6,6,38,3.18,2,Diamondbacks,ARI,65,31
+2008,8,0,Ryan Cook,12,/players/c/cookry01.shtml,7.666666666666667,11,1,RHP,-0.2,0,6,7.04,0,Diamondbacks,ARI,7,6
+2009,3,0,Bradin Hagens,2,/players/h/hagenbr01.shtml,2.6666666666666665,4,1,RHP,0.0,0,1,3.38,0,Diamondbacks,ARI,2,1
+2009,80,48,Chase Anderson,48,/players/a/anderch01.shtml,267.0,275,13,RHP,1.8,34,131,4.18,15,Diamondbacks,ARI,216,124
+2009,2,0,Charles Brewer,4,/players/b/brewech01.shtml,6.0,8,0,RHP,0.1,0,2,3.0,0,Diamondbacks,ARI,5,2
+2010,17,9,Mike Bolsinger,10,/players/b/bolsimi01.shtml,52.333333333333336,66,6,RHP,-0.9,7,36,5.5,1,Diamondbacks,ARI,48,32
+2010,6,0,Keith Hessler,20,/players/h/hesslke01.shtml,15.333333333333334,21,1,LHP,-0.5,4,14,8.22,0,Diamondbacks,ARI,14,14
+2011,13,4,Trevor Bauer,4,/players/b/bauertr01.shtml,16.333333333333332,14,2,RHP,-0.3,2,13,6.06,1,Diamondbacks,ARI,17,11
+2011,130,34,Archie Bradley,173,/players/b/bradlar01.shtml,322.0,307,20,RHP,4.8,32,151,4.05,17,Diamondbacks,ARI,320,145
+2011,95,3,Andrew Chafin,249,/players/c/chafian01.shtml,212.33333333333334,180,9,LHP,3.3,9,86,3.52,7,Diamondbacks,ARI,210,83
+2011,30,0,Evan Marshall,85,/players/m/marshev01.shtml,78.0,98,7,RHP,-0.2,8,44,4.5,4,Diamondbacks,ARI,70,39
+2012,45,0,Jake Barrett,103,/players/b/barreja01.shtml,93.33333333333333,82,4,RHP,0.8,14,47,4.05,2,Diamondbacks,ARI,88,42
+2013,45,14,Braden Shipley,26,/players/s/shiplbr01.shtml,100.0,115,6,RHP,-0.1,19,65,5.49,4,Diamondbacks,ARI,64,61
+2013,12,0,Jimmie Sherfy,26,/players/s/sherfji01.shtml,27.0,13,0,RHP,1.1,1,3,1.0,2,Diamondbacks,ARI,26,3
+2013,6,0,Steve Hathaway,24,/players/h/hathast01.shtml,14.666666666666666,18,0,LHP,0.1,1,8,4.91,0,Diamondbacks,ARI,15,8
+2014,13,0,Zac Curtis,21,/players/c/curtiza01.shtml,13.333333333333334,13,1,LHP,-0.2,2,10,6.75,0,Diamondbacks,ARI,10,10

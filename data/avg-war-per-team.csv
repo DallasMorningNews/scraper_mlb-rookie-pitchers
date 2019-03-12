@@ -1,0 +1,30 @@
+team,total_seasons,avg_war_per_season,median_war
+Rangers,42,0.27,0.12
+Angels,32,0.2,-0.1
+Astros,23,0.93,0.0
+Athletics,22,0.87,0.45
+Blue Jays,49,0.63,0.1
+Braves,35,0.67,0.0
+Brewers,43,0.39,0.18
+Cardinals,66,0.6,0.16
+Cubs,23,-0.06,0.0
+Rays,17,0.55,0.0
+Diamondbacks,38,0.39,0.05
+Dodgers,28,0.33,0.05
+Giants,35,0.07,0.06
+Indians,40,0.6,0.22
+Mariners,33,0.65,0.2
+Marlins,30,0.63,-0.1
+Mets,47,0.92,0.05
+Nationals,44,0.73,0.0
+Orioles,45,0.55,0.09
+Padres,33,0.07,0.05
+Phillies,40,0.62,0.0
+Pirates,28,0.73,-0.1
+Red Sox,18,0.07,-0.05
+Reds,43,0.15,-0.15
+Rockies,43,0.87,0.35
+Royals,34,0.31,-0.1
+Tigers,42,0.05,-0.2
+Twins,39,0.39,-0.1
+White Sox,47,0.8,-0.05
